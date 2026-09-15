@@ -1,0 +1,8860 @@
+{
+ "guilds": {
+  "Divide": {
+   "name": "Divide",
+   "guild_id": "700340300009",
+   "nexus": 34,
+   "server": 3,
+   "leader": "Sighborn",
+   "members": [
+    56,
+    56
+   ],
+   "total_power": 262000000,
+   "activeness": 481000,
+   "slogan": "Strong/Active & want to join Divide? DM Sighborn to apply! Average player? Lumoria is our sister guild! DM Grauk-Hav to apply!",
+   "updated": "2026-09-08T18:21:10-04:00",
+   "shot": "shots/guild-Divide.jpg",
+   "players": {
+    "Kolya7k": {
+     "player_id": "700340305212",
+     "power": 9190000,
+     "cls": "Archmage",
+     "class_level": 385,
+     "level": 124,
+     "rank": "Expert III",
+     "title": "Whirling Leaves",
+     "likes": 1740,
+     "stats": {
+      "ATK": 600000,
+      "DEF": 488000,
+      "HP": 2440000,
+      "SPD": 459000
+     },
+     "name": "Kolya7k",
+     "updated": "2026-09-06T20:58:27-04:00",
+     "source": "report",
+     "notable": "whale",
+     "nexus": 34,
+     "server": 3,
+     "pre_reset": false
+    },
+    "blorto": {
+     "player_id": "700340300955",
+     "nexus": 34,
+     "server": 3,
+     "power": 6270000,
+     "class_level": 203,
+     "cls": "Archmage",
+     "level": 126,
+     "rank": "Expert II",
+     "title": "Whirling Leaves",
+     "stats": {
+      "ATK": 518000,
+      "DEF": 323000,
+      "HP": 1660000,
+      "SPD": 348000
+     },
+     "equip": [
+      130,
+      130,
+      130,
+      125,
+      125
+     ],
+     "skills": [
+      126,
+      126,
+      126,
+      126,
+      126,
+      126,
+      126,
+      126
+     ],
+     "likes": 2980,
+     "name": "blorto",
+     "updated": "2026-09-08T18:21:10-04:00",
+     "notable": "player",
+     "shot": "shots/player-blorto.jpg",
+     "pre_reset": false
+    },
+    "SnowHell": {
+     "player_id": "700340302072",
+     "nexus": 34,
+     "server": 3,
+     "power": 2520000,
+     "class_level": 96,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Whirling Leaves",
+     "stats": {
+      "ATK": 176000,
+      "DEF": 147000,
+      "HP": 815000,
+      "SPD": 140000
+     },
+     "equip": [
+      115,
+      115,
+      110,
+      110
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      109,
+      109,
+      109,
+      108
+     ],
+     "likes": 761,
+     "name": "SnowHell",
+     "updated": "2026-09-06T04:24:44-04:00",
+     "notable": "whale_guild",
+     "shot": "shots/player-SnowHell.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "GoonDay": {
+   "name": "GoonDay",
+   "guild_id": "700340400027",
+   "nexus": 34,
+   "server": 4,
+   "leader": "MayDay",
+   "members": [
+    56,
+    57
+   ],
+   "total_power": 243000000,
+   "activeness": 436000,
+   "slogan": "PM @Burnincoal for joining :3",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "shot": "shots/guild-GoonDay.jpg",
+   "players": {
+    "Arri": {
+     "player_id": "700340404511",
+     "power": 7770000,
+     "cls": "Berserker",
+     "class_level": 248,
+     "level": 126,
+     "rank": "Expert III",
+     "title": "Golden Surge",
+     "likes": 3480,
+     "stats": {
+      "ATK": 454000,
+      "DEF": 471000,
+      "HP": 1880000,
+      "SPD": 484000
+     },
+     "name": "Arri",
+     "updated": "2026-09-06T20:58:27-04:00",
+     "source": "report",
+     "notable": "player",
+     "nexus": 34,
+     "server": 4,
+     "pre_reset": false
+    },
+    "Rina": {
+     "player_id": "700340400194",
+     "nexus": 34,
+     "server": 4,
+     "power": 2340000,
+     "class_level": 96,
+     "cls": "Arcanist",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "GoldenSurge",
+     "stats": {
+      "ATK": 155000,
+      "DEF": 136000,
+      "HP": 774000,
+      "SPD": 105000
+     },
+     "equip": [
+      113,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      101
+     ],
+     "likes": 568,
+     "name": "Rina",
+     "updated": "2026-09-06T05:28:22-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Rina.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "TeaParty": {
+   "name": "TeaParty",
+   "guild_id": "700340100011",
+   "nexus": 34,
+   "server": 1,
+   "leader": "Indigo",
+   "members": [
+    57,
+    57
+   ],
+   "total_power": 239000000,
+   "activeness": 461000,
+   "slogan": "Tea, cookies, fun times. We strive to be our best. Ya, neueHbe, Becenoe BpeManpenpoBOxneHMe. MbI CTpeMUMCA 6bITb ny4wMMN.",
+   "updated": "2026-09-08T19:38:14-04:00",
+   "shot": "shots/guild-TeaParty.jpg",
+   "players": {
+    "Aerolee": {
+     "player_id": "700340105067",
+     "nexus": 34,
+     "server": 1,
+     "power": 4099999,
+     "class_level": 113,
+     "cls": "Paladin",
+     "level": 121,
+     "rank": "Expert II",
+     "title": "Rootless Tide",
+     "stats": {
+      "ATK": 266000,
+      "DEF": 244000,
+      "HP": 1280000,
+      "SPD": 203000
+     },
+     "equip": [
+      125,
+      125,
+      125,
+      125,
+      120
+     ],
+     "skills": [
+      112,
+      111,
+      111,
+      111,
+      111,
+      111
+     ],
+     "likes": 1410,
+     "name": "Aerolee",
+     "updated": "2026-09-08T19:38:14-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Aerolee.jpg",
+     "pre_reset": false
+    },
+    "CTyAeHT": {
+     "player_id": "700340100088",
+     "nexus": 34,
+     "server": 1,
+     "power": 2680000,
+     "class_level": 119,
+     "cls": "Archmage",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Rootless Tide",
+     "stats": {
+      "ATK": 196000,
+      "DEF": 112000,
+      "HP": 716000,
+      "SPD": 160000
+     },
+     "equip": [
+      114,
+      114,
+      114,
+      110,
+      109
+     ],
+     "skills": [
+      115,
+      113,
+      113,
+      113,
+      112
+     ],
+     "likes": 507,
+     "name": "CTyAeHT",
+     "updated": "2026-09-09T04:38:44-04:00",
+     "notable": "guild",
+     "shot": "shots/player-CTyAeHT.jpg",
+     "pre_reset": false
+    },
+    "Mapkyc.中eHNKC": {
+     "player_id": "700340100474",
+     "nexus": 34,
+     "server": 1,
+     "power": 2250000,
+     "class_level": 93,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Rootless Tide",
+     "stats": {
+      "ATK": 172000,
+      "DEF": 144000,
+      "HP": 583000,
+      "SPD": 111000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      102,
+      101
+     ],
+     "skills": [
+      103,
+      103,
+      103,
+      102,
+      102,
+      102,
+      102,
+      102
+     ],
+     "likes": 453,
+     "name": "Mapkyc.中eHNKC",
+     "updated": "2026-09-07T02:27:41-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Mapkyc-eHNKC.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "ShadowGarden": {
+   "name": "ShadowGarden",
+   "guild_id": "700340200015",
+   "nexus": 34,
+   "server": 2,
+   "leader": "Dokja",
+   "members": [
+    55,
+    57
+   ],
+   "total_power": 233000000,
+   "activeness": 441000,
+   "slogan": "Lurking in the shadows, we drive away the darkness — join us to reach the peak.Waiting list - please message Dokja",
+   "updated": "2026-09-08T04:26:53-04:00",
+   "shot": "shots/guild-ShadowGarden.jpg",
+   "players": {
+    "BtmTier": {
+     "player_id": "700340202835",
+     "nexus": 34,
+     "server": 2,
+     "power": 2400000,
+     "class_level": 112,
+     "cls": "Arcanist",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Fire in Heart",
+     "stats": {
+      "ATK": 147000,
+      "DEF": 132000,
+      "HP": 740000,
+      "SPD": 109000
+     },
+     "equip": [
+      110,
+      109,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      114,
+      114,
+      114,
+      114,
+      113
+     ],
+     "likes": 424,
+     "name": "BtmTier",
+     "updated": "2026-09-08T04:26:53-04:00",
+     "notable": "guild",
+     "shot": "shots/player-BtmTier.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "TheTower": {
+   "name": "TheTower",
+   "guild_id": "700340600012",
+   "nexus": 34,
+   "server": 6,
+   "leader": "Aerin",
+   "members": [
+    57,
+    57
+   ],
+   "total_power": 228000000,
+   "activeness": 461000,
+   "slogan": "The Tower Arcana.Chaos, Change, and Destruction of False Beings. Looking for active members!",
+   "updated": "2026-09-09T21:45:23-04:00",
+   "shot": "shots/guild-TheTower.jpg",
+   "players": {
+    "Silony": {
+     "player_id": "700340600905",
+     "nexus": 34,
+     "server": 6,
+     "power": 5480000,
+     "class_level": 161,
+     "cls": "Arcanist",
+     "level": 123,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 441000,
+      "DEF": 284000,
+      "HP": 2020000,
+      "SPD": 344000
+     },
+     "equip": [
+      136,
+      136,
+      135,
+      135,
+      135
+     ],
+     "skills": [
+      123,
+      123,
+      123,
+      123,
+      123,
+      123,
+      123,
+      123
+     ],
+     "likes": 1560,
+     "name": "Silony",
+     "updated": "2026-09-07T15:20:54-04:00",
+     "notable": "player",
+     "shot": "shots/player-Silony.jpg",
+     "pre_reset": false
+    },
+    "Hiro.zzz": {
+     "player_id": "700340604301",
+     "nexus": 34,
+     "server": 6,
+     "power": 2870000,
+     "class_level": 111,
+     "cls": "Arcanist",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 152000,
+      "DEF": 228000,
+      "HP": 1100000,
+      "SPD": 130000
+     },
+     "equip": [
+      115,
+      112,
+      112,
+      110,
+      11
+     ],
+     "skills": [
+      107,
+      107,
+      107,
+      107,
+      106,
+      106,
+      106,
+      106
+     ],
+     "likes": 643,
+     "name": "Hiro.zzz",
+     "updated": "2026-09-07T18:06:36-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Hiro-zzz.jpg",
+     "pre_reset": false
+    },
+    "Monarch": {
+     "player_id": "700340600423",
+     "nexus": 34,
+     "server": 6,
+     "power": 2760000,
+     "class_level": 11,
+     "cls": "Archmage",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 242000,
+      "DEF": 160000,
+      "HP": 761000,
+      "SPD": 122000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      108,
+      106
+     ],
+     "skills": [
+      119,
+      119,
+      119,
+      119,
+      118,
+      118
+     ],
+     "likes": 368,
+     "name": "Monarch",
+     "updated": "2026-09-09T21:45:23-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Monarch.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "TheFirstOrder": {
+   "name": "TheFirstOrder",
+   "guild_id": "700340600001",
+   "nexus": 34,
+   "server": 6,
+   "leader": "Maveyrk",
+   "members": [
+    56,
+    57
+   ],
+   "total_power": 227000000,
+   "activeness": 465000,
+   "slogan": "Surrounded by chaos, a new power arises. Charge in with The First Order and claim your glorious place among legends!",
+   "updated": "2026-09-09T18:57:52-04:00",
+   "shot": "shots/guild-TheFirstOrder.jpg",
+   "players": {
+    "fera610": {
+     "player_id": "700340602722",
+     "nexus": 34,
+     "server": 6,
+     "power": 5700000,
+     "class_level": 159,
+     "cls": "Archmage",
+     "level": 122,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 482000,
+      "DEF": 339000,
+      "HP": 1680000,
+      "SPD": 266000
+     },
+     "equip": [
+      140,
+      140,
+      138,
+      138,
+      137
+     ],
+     "skills": [
+      122,
+      122,
+      122
+     ],
+     "likes": 3860,
+     "name": "fera610",
+     "updated": "2026-09-07T20:44:26-04:00",
+     "notable": "player",
+     "shot": "shots/player-fera610.jpg",
+     "pre_reset": false
+    },
+    "TanjiroF2P": {
+     "player_id": "700340600057",
+     "nexus": 34,
+     "server": 6,
+     "power": 3650000,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 343000,
+      "DEF": 184000,
+      "HP": 1200000,
+      "SPD": 201000
+     },
+     "equip": [
+      122,
+      122,
+      121,
+      121
+     ],
+     "skills": [
+      117,
+      117,
+      117,
+      117,
+      117,
+      116
+     ],
+     "likes": 1920,
+     "name": "TanjiroF2P",
+     "updated": "2026-09-07T08:41:08-04:00",
+     "notable": "guild",
+     "shot": "shots/player-TanjiroF2P.jpg",
+     "pre_reset": false
+    },
+    "Bardelas": {
+     "player_id": "700340600036",
+     "nexus": 34,
+     "server": 6,
+     "power": 3540000,
+     "class_level": 95,
+     "cls": "Archmage",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 310000,
+      "DEF": 194000,
+      "HP": 759000,
+      "SPD": 239000
+     },
+     "equip": [
+      116,
+      115,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      109,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108
+     ],
+     "likes": 1430,
+     "name": "Bardelas",
+     "updated": "2026-09-09T18:57:52-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Bardelas.jpg",
+     "pre_reset": false
+    },
+    "Wars": {
+     "player_id": "700340600813",
+     "nexus": 34,
+     "server": 6,
+     "power": 3500000,
+     "class_level": 89,
+     "cls": "Berserker",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 316000,
+      "DEF": 173000,
+      "HP": 795000,
+      "SPD": 231000
+     },
+     "equip": [
+      127,
+      125,
+      125,
+      125
+     ],
+     "skills": [
+      107,
+      107,
+      107,
+      107,
+      107,
+      106,
+      106,
+      106
+     ],
+     "likes": 3230,
+     "name": "Wars",
+     "updated": "2026-09-06T06:57:21-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Wars.jpg",
+     "pre_reset": false
+    },
+    "Wrennie": {
+     "player_id": "700340600792",
+     "nexus": 34,
+     "server": 6,
+     "power": 2580000,
+     "class_level": 101,
+     "cls": "Arcanist",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 146000,
+      "DEF": 166000,
+      "HP": 737000,
+      "SPD": 170000
+     },
+     "equip": [
+      104,
+      104,
+      104,
+      104,
+      103
+     ],
+     "skills": [
+      99,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+     ],
+     "likes": 487,
+     "name": "Wrennie",
+     "updated": "2026-09-07T22:11:41-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Wrennie.jpg",
+     "pre_reset": false
+    },
+    "Nels": {
+     "player_id": "700340604845",
+     "nexus": 34,
+     "server": 6,
+     "power": 2420000,
+     "class_level": 93,
+     "cls": "Arcanist",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "GaleShard",
+     "stats": {
+      "ATK": 142000,
+      "DEF": 140000,
+      "HP": 786000,
+      "SPD": 119000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      105,
+      102
+     ],
+     "skills": [
+      104,
+      104,
+      104,
+      103,
+      103,
+      103,
+      103,
+      103
+     ],
+     "likes": 737,
+     "name": "Nels",
+     "updated": "2026-09-04T21:35:31-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Nels.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "ARCHONS": {
+   "name": "ARCHONS",
+   "guild_id": "700340800007",
+   "nexus": 34,
+   "server": 8,
+   "leader": "AMBER",
+   "members": [
+    56,
+    56
+   ],
+   "total_power": 221000000,
+   "activeness": 466000,
+   "slogan": "Everyone is WELCOME",
+   "updated": "2026-09-09T18:16:01-04:00",
+   "shot": "shots/guild-ARCHONS.jpg",
+   "players": {
+    "Razun": {
+     "player_id": "700340800229",
+     "nexus": 34,
+     "server": 8,
+     "power": 4880000,
+     "class_level": 108,
+     "cls": "Archmage",
+     "level": 122,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 387000,
+      "DEF": 318000,
+      "HP": 1260000,
+      "SPD": 295000
+     },
+     "equip": [
+      138,
+      136,
+      135,
+      135,
+      135
+     ],
+     "skills": [
+      122,
+      122,
+      122
+     ],
+     "likes": 1690,
+     "name": "Razun",
+     "updated": "2026-09-09T18:16:01-04:00",
+     "notable": "player",
+     "shot": "shots/player-Razun.jpg",
+     "pre_reset": false
+    },
+    "Tionel": {
+     "player_id": "700340800412",
+     "nexus": 34,
+     "server": 8,
+     "power": 4090000,
+     "class_level": 103,
+     "cls": "Berserker",
+     "level": 122,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 310000,
+      "DEF": 230000,
+      "HP": 1080000,
+      "SPD": 227000
+     },
+     "equip": [
+      130,
+      130,
+      130,
+      130,
+      129
+     ],
+     "skills": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      119,
+      119,
+      119
+     ],
+     "likes": 2050,
+     "name": "Tionel",
+     "updated": "2026-09-08T19:19:56-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Tionel.jpg",
+     "pre_reset": false
+    },
+    "Yugana": {
+     "player_id": "700340803818",
+     "nexus": 34,
+     "server": 8,
+     "power": 3320000,
+     "class_level": 127,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 254000,
+      "DEF": 164000,
+      "HP": 814000,
+      "SPD": 172000
+     },
+     "equip": [
+      120,
+      120,
+      117,
+      115,
+      115
+     ],
+     "skills": [
+      108,
+      108,
+      108,
+      108,
+      107,
+      107
+     ],
+     "likes": 1970,
+     "name": "Yugana",
+     "updated": "2026-09-05T20:49:24-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Yugana.jpg",
+     "pre_reset": false
+    },
+    "re:zero": {
+     "player_id": "700340800144",
+     "nexus": 34,
+     "server": 8,
+     "power": 2930000,
+     "class_level": 119,
+     "cls": "Berserker",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 265000,
+      "DEF": 140000,
+      "HP": 715000,
+      "SPD": 185000
+     },
+     "equip": [
+      105,
+      100,
+      100,
+      100,
+      100
+     ],
+     "skills": [
+      99,
+      99,
+      99,
+      99,
+      99,
+      98,
+      98
+     ],
+     "likes": 947,
+     "name": "re:zero",
+     "updated": "2026-09-08T01:54:03-04:00",
+     "notable": "guild",
+     "shot": "shots/player-re-zero.jpg",
+     "pre_reset": false
+    },
+    "Urumi": {
+     "player_id": "700340800076",
+     "nexus": 34,
+     "server": 8,
+     "power": 2660000,
+     "class_level": 102,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 159000,
+      "DEF": 172000,
+      "HP": 860000,
+      "SPD": 152000
+     },
+     "equip": [
+      110,
+      109,
+      106,
+      105,
+      105
+     ],
+     "skills": [
+      105,
+      105,
+      105,
+      105,
+      105,
+      105,
+      105
+     ],
+     "likes": 1180,
+     "name": "Urumi",
+     "updated": "2026-09-06T05:20:26-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Urumi.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Σxceed™": {
+   "name": "Σxceed™",
+   "guild_id": "700340800015",
+   "nexus": 34,
+   "server": 8,
+   "leader": null,
+   "members": null,
+   "total_power": 210000000,
+   "activeness": null,
+   "slogan": null,
+   "updated": "2026-09-06T00:00:00-04:00",
+   "shot": "shots/guild-ExceedtTM.jpg",
+   "players": {
+    "Stylo": {
+     "player_id": "700340800835",
+     "power": 6240000,
+     "cls": "Archmage",
+     "class_level": 243,
+     "level": 122,
+     "rank": "Expert III",
+     "title": "Flicker Blink",
+     "likes": 1500,
+     "stats": {
+      "ATK": 470000,
+      "DEF": 342000,
+      "HP": 1910000,
+      "SPD": 276000
+     },
+     "name": "Stylo",
+     "updated": "2026-09-06T20:58:27-04:00",
+     "source": "report",
+     "notable": "player",
+     "nexus": 34,
+     "server": 8,
+     "pre_reset": false
+    },
+    "Gobrou": {
+     "player_id": "700340800686",
+     "nexus": 34,
+     "server": 8,
+     "power": 4780000,
+     "class_level": 179,
+     "cls": "Berserker",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 342000,
+      "DEF": 249000,
+      "HP": 1290000,
+      "SPD": 298000
+     },
+     "equip": [
+      131,
+      131,
+      130,
+      130,
+      130
+     ],
+     "skills": [
+      119,
+      119,
+      119
+     ],
+     "likes": 3650,
+     "name": "Gobrou",
+     "updated": "2026-09-05T02:43:59-04:00",
+     "notable": "player",
+     "shot": "shots/player-Gobrou.jpg",
+     "pre_reset": false
+    },
+    "Tnismeeh": {
+     "player_id": "700340803341",
+     "nexus": 34,
+     "server": 8,
+     "power": 3980000,
+     "class_level": 94,
+     "cls": "Archmage",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 419000,
+      "DEF": 275000,
+      "HP": 919000,
+      "SPD": 152000
+     },
+     "equip": [
+      135,
+      135,
+      135,
+      132,
+      130
+     ],
+     "skills": [
+      119,
+      118,
+      118,
+      118,
+      118
+     ],
+     "likes": 2550,
+     "name": "Tnismeeh",
+     "updated": "2026-09-06T20:47:10-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Tnismeeh.jpg",
+     "pre_reset": false
+    },
+    "Seyker": {
+     "player_id": "700340804590",
+     "nexus": 34,
+     "server": 8,
+     "power": 2500000,
+     "class_level": 91,
+     "cls": "Berserker",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 188000,
+      "DEF": 146000,
+      "HP": 957000,
+      "SPD": 121000
+     },
+     "equip": [
+      110,
+      110,
+      106,
+      105,
+      105
+     ],
+     "skills": [
+      98,
+      98,
+      98,
+      97,
+      97,
+      97,
+      97,
+      97
+     ],
+     "likes": 623,
+     "name": "Seyker",
+     "updated": "2026-09-05T01:50:41-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Seyker.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Nemesis": {
+   "name": "Nemesis",
+   "guild_id": "700341000003",
+   "nexus": 34,
+   "server": 10,
+   "leader": "Ewfegy",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 207000000,
+   "activeness": 426000,
+   "slogan": "Active players are welcomed. Friendly and helpful guild. Discord is preferred, but not required.",
+   "updated": "2026-09-08T23:51:38-04:00",
+   "shot": "shots/guild-Nemesis.jpg",
+   "players": {
+    "Tiferet": {
+     "player_id": "700341000591",
+     "nexus": 34,
+     "server": 10,
+     "power": 4410000,
+     "class_level": 115,
+     "cls": "Archmage",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 344000,
+      "DEF": 195000,
+      "HP": 1440000,
+      "SPD": 267000
+     },
+     "equip": [
+      139,
+      135,
+      135,
+      135,
+      135
+     ],
+     "skills": [
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119
+     ],
+     "likes": 2140,
+     "name": "Tiferet",
+     "updated": "2026-09-08T23:51:38-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Tiferet.jpg",
+     "pre_reset": false
+    },
+    "jefken": {
+     "player_id": "700341004106",
+     "nexus": 34,
+     "server": 10,
+     "power": 4179999,
+     "class_level": 112,
+     "cls": "Berserker",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 294000,
+      "DEF": 334000,
+      "HP": 1100000,
+      "SPD": 251000
+     },
+     "equip": [
+      130,
+      130,
+      130,
+      129,
+      129
+     ],
+     "skills": [
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119
+     ],
+     "likes": 2610,
+     "name": "jefken",
+     "updated": "2026-09-07T07:24:04-04:00",
+     "notable": "guild",
+     "shot": "shots/player-jefken.jpg",
+     "pre_reset": false
+    },
+    "Ghostman": {
+     "player_id": "700341000731",
+     "nexus": 34,
+     "server": 10,
+     "power": 3040000,
+     "class_level": 93,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 226000,
+      "DEF": 144000,
+      "HP": 829000,
+      "SPD": 199000
+     },
+     "equip": [
+      112,
+      112,
+      112,
+      111
+     ],
+     "skills": [
+      116,
+      116,
+      116,
+      116,
+      115,
+      115,
+      115,
+      115
+     ],
+     "likes": 781,
+     "name": "Ghostman",
+     "updated": "2026-09-07T08:48:18-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Ghostman.jpg",
+     "pre_reset": false
+    },
+    "GhostYruama": {
+     "player_id": "700341002485",
+     "nexus": 34,
+     "server": 10,
+     "power": 2580000,
+     "class_level": 106,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 153000,
+      "DEF": 137000,
+      "HP": 860000,
+      "SPD": 131000
+     },
+     "equip": [
+      116,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      103,
+      103,
+      103,
+      103,
+      103,
+      103,
+      103,
+      103
+     ],
+     "likes": 634,
+     "name": "GhostYruama",
+     "updated": "2026-09-08T06:05:48-04:00",
+     "notable": "guild",
+     "shot": "shots/player-GhostYruama.jpg",
+     "pre_reset": false
+    },
+    "Faldass": {
+     "player_id": "700341000053",
+     "nexus": 34,
+     "server": 10,
+     "power": 2450000,
+     "class_level": 96,
+     "cls": "Arcanist",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 123000,
+      "DEF": 138000,
+      "HP": 928000,
+      "SPD": 110000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      107,
+      107,
+      107,
+      106,
+      106,
+      106,
+      106,
+      106
+     ],
+     "likes": 1160,
+     "name": "Faldass",
+     "updated": "2026-09-09T07:43:05-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Faldass.jpg",
+     "pre_reset": false
+    },
+    "Balmung": {
+     "player_id": "700341005143",
+     "nexus": 34,
+     "server": 10,
+     "class_level": 105,
+     "cls": "Paladin",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 152000,
+      "DEF": 166000,
+      "HP": 766000,
+      "SPD": 121000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      105,
+      101
+     ],
+     "skills": [
+      104,
+      104,
+      104,
+      104,
+      103,
+      103,
+      103,
+      103
+     ],
+     "likes": 715,
+     "name": "Balmung",
+     "updated": "2026-09-07T02:09:18-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Balmung.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Exalted": {
+   "name": "Exalted",
+   "guild_id": "700341600001",
+   "nexus": 34,
+   "server": 16,
+   "leader": "DubaiPrince",
+   "members": [
+    57,
+    57
+   ],
+   "total_power": 206000000,
+   "activeness": 409000,
+   "slogan": "Active & Friendly Guild! Conquest ·Dungeons·Crucible We help each other everyday! Joinus& grow together!",
+   "updated": "2026-09-08T18:50:46-04:00",
+   "shot": "shots/guild-Exalted.jpg",
+   "players": {
+    "Artoria": {
+     "player_id": "700341600217",
+     "nexus": 34,
+     "server": 16,
+     "power": 7790000,
+     "class_level": 244,
+     "cls": "Berserker",
+     "level": 122,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 570000,
+      "DEF": 495000,
+      "HP": 2190000,
+      "SPD": 372000
+     },
+     "equip": [
+      153,
+      152,
+      152,
+      152,
+      152
+     ],
+     "skills": [
+      122,
+      122,
+      122,
+      122,
+      122
+     ],
+     "likes": 7380,
+     "name": "Artoria",
+     "updated": "2026-09-08T02:30:00-04:00",
+     "notable": "player",
+     "shot": "shots/player-Artoria.jpg",
+     "pre_reset": false
+    },
+    "Donutt": {
+     "player_id": "700341602383",
+     "nexus": 34,
+     "server": 16,
+     "power": 4500000,
+     "class_level": 154,
+     "cls": "Arcanist",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 335000,
+      "DEF": 214000,
+      "HP": 1720000,
+      "SPD": 178000
+     },
+     "equip": [
+      125,
+      125,
+      125,
+      125,
+      125
+     ],
+     "skills": [
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119
+     ],
+     "likes": 2840,
+     "name": "Donutt",
+     "updated": "2026-09-06T23:50:13-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Donutt.jpg",
+     "pre_reset": false
+    },
+    "MikeUchi": {
+     "player_id": "700341603177",
+     "nexus": 34,
+     "server": 16,
+     "power": 3440000,
+     "class_level": 97,
+     "cls": "Archmage",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 279000,
+      "DEF": 160000,
+      "HP": 825000,
+      "SPD": 241000
+     },
+     "equip": [
+      115,
+      115,
+      113,
+      110,
+      110
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      110,
+      108,
+      107,
+      107,
+      107
+     ],
+     "likes": 1840,
+     "name": "MikeUchi",
+     "updated": "2026-09-08T18:58:14-04:00",
+     "notable": "guild",
+     "shot": "shots/player-MikeUchi.jpg",
+     "pre_reset": false
+    },
+    "Zaff": {
+     "player_id": "700341600055",
+     "nexus": 34,
+     "server": 16,
+     "power": 2910000,
+     "class_level": 137,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 229000,
+      "DEF": 140000,
+      "HP": 824000,
+      "SPD": 147000
+     },
+     "equip": [
+      115,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      111,
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 713,
+     "name": "Zaff",
+     "updated": "2026-09-07T22:28:55-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Zaff.jpg",
+     "pre_reset": false
+    },
+    "Zoniverse": {
+     "player_id": "700341605135",
+     "nexus": 34,
+     "server": 16,
+     "power": 2750000,
+     "class_level": 97,
+     "cls": "Paladin",
+     "level": 112,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 163000,
+      "DEF": 199000,
+      "HP": 807000,
+      "SPD": 128000
+     },
+     "equip": [
+      115,
+      113,
+      110,
+      110
+     ],
+     "skills": [
+      107,
+      107,
+      107,
+      107,
+      107,
+      107,
+      106,
+      106
+     ],
+     "likes": 495,
+     "name": "Zoniverse",
+     "updated": "2026-09-04T22:41:37-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Zoniverse.jpg",
+     "pre_reset": false
+    },
+    "Veil": {
+     "player_id": "700341600277",
+     "nexus": 34,
+     "server": 16,
+     "power": 2540000,
+     "class_level": 115,
+     "cls": "Archmage",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 181000,
+      "DEF": 118000,
+      "HP": 703000,
+      "SPD": 118000
+     },
+     "equip": [
+      114,
+      114,
+      113,
+      113,
+      113
+     ],
+     "skills": [
+      107,
+      107,
+      107,
+      107,
+      107,
+      107,
+      107,
+      107
+     ],
+     "likes": 902,
+     "name": "Veil",
+     "updated": "2026-09-06T00:37:39-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Veil.jpg",
+     "pre_reset": false
+    },
+    "SAPEPEQ": {
+     "player_id": "700341605193",
+     "nexus": 34,
+     "server": 16,
+     "power": 2450000,
+     "class_level": 84,
+     "cls": "Archmage",
+     "level": 110,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 186000,
+      "DEF": 162000,
+      "HP": 685000,
+      "SPD": 110000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      105,
+      103
+     ],
+     "skills": [
+      103,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+     ],
+     "likes": 511,
+     "name": "SAPEPEQ",
+     "updated": "2026-09-04T22:41:31-04:00",
+     "notable": "guild",
+     "pre_reset": false
+    },
+    "yatozin": {
+     "player_id": "700341601301",
+     "nexus": 34,
+     "server": 16,
+     "power": 2280000,
+     "class_level": 89,
+     "cls": "Paladin",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 153000,
+      "DEF": 147000,
+      "HP": 671000,
+      "SPD": 127000
+     },
+     "equip": [
+      115,
+      114,
+      114,
+      114
+     ],
+     "skills": [
+      106,
+      105,
+      105,
+      105,
+      105,
+      105,
+      105
+     ],
+     "likes": 485,
+     "name": "yatozin",
+     "updated": "2026-09-08T02:29:56-04:00",
+     "notable": "guild",
+     "shot": "shots/player-yatozin.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Valor": {
+   "name": "Valor",
+   "guild_id": "700341400002",
+   "nexus": 34,
+   "server": 14,
+   "leader": "Arcxo",
+   "members": [
+    57,
+    57
+   ],
+   "total_power": 193000000,
+   "activeness": 434000,
+   "slogan": "Msg Arcxo, Newb,Bagbread for reservations 48 hr offline no notice purge. HelpfulCommunity SetConquestTimes Discord Server",
+   "updated": "2026-09-09T00:31:51-04:00",
+   "shot": "shots/guild-Valor.jpg",
+   "players": {
+    "369": {
+     "player_id": "700341402017",
+     "nexus": 34,
+     "server": 14,
+     "power": 3480000,
+     "class_level": 100,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Eternal Flame",
+     "stats": {
+      "ATK": 278000,
+      "DEF": 180000,
+      "HP": 918000,
+      "SPD": 226000
+     },
+     "equip": [
+      125,
+      125,
+      125,
+      121,
+      120
+     ],
+     "skills": [
+      117,
+      116,
+      116,
+      116,
+      116,
+      116,
+      116
+     ],
+     "likes": 1350,
+     "name": "369",
+     "updated": "2026-09-07T22:34:42-04:00",
+     "notable": "guild",
+     "shot": "shots/player-369.jpg",
+     "pre_reset": false
+    },
+    "Redoren": {
+     "player_id": "700341400034",
+     "nexus": 34,
+     "server": 14,
+     "power": 2470000,
+     "class_level": 101,
+     "cls": "Berserker",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Eternal Flame",
+     "stats": {
+      "ATK": 179000,
+      "DEF": 128000,
+      "HP": 680000,
+      "SPD": 132000
+     },
+     "equip": [
+      109,
+      105,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      107,
+      107,
+      107,
+      106,
+      106,
+      106,
+      106,
+      106
+     ],
+     "likes": 666,
+     "name": "Redoren",
+     "updated": "2026-09-05T02:25:12-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Redoren.jpg",
+     "pre_reset": false
+    },
+    "MingMing": {
+     "player_id": "700341402880",
+     "nexus": 34,
+     "server": 14,
+     "class_level": 88,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Eternal Flame",
+     "stats": {
+      "ATK": 176000,
+      "DEF": 137000,
+      "HP": 609000,
+      "SPD": 128000
+     },
+     "equip": [
+      110,
+      105,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      102,
+      102,
+      101,
+      101,
+      101,
+      101,
+      101
+     ],
+     "likes": 534,
+     "name": "MingMing",
+     "updated": "2026-09-09T00:35:29-04:00",
+     "notable": "guild",
+     "shot": "shots/player-MingMing.jpg",
+     "power": 2330000,
+     "pre_reset": false
+    },
+    "ReinHardt": {
+     "player_id": "700341400528",
+     "nexus": 34,
+     "server": 14,
+     "power": 2250000,
+     "class_level": 92,
+     "cls": "Berserker",
+     "level": 112,
+     "rank": "Expert II",
+     "title": "Eternal Flame",
+     "stats": {
+      "ATK": 135000,
+      "DEF": 130000,
+      "HP": 809000,
+      "SPD": 129000
+     },
+     "equip": [
+      100,
+      95,
+      95,
+      95
+     ],
+     "skills": [
+      98,
+      98,
+      97,
+      97,
+      97,
+      97,
+      97,
+      97
+     ],
+     "likes": 420,
+     "name": "ReinHardt",
+     "updated": "2026-09-06T01:54:42-04:00",
+     "notable": "guild",
+     "shot": "shots/player-ReinHardt.jpg",
+     "pre_reset": false
+    },
+    "Koira": {
+     "player_id": "700341400683",
+     "nexus": 34,
+     "server": 14,
+     "class_level": 95,
+     "cls": "Archmage",
+     "level": 111,
+     "rank": "Expert II",
+     "title": "Eternal Flame",
+     "stats": {
+      "ATK": 154000,
+      "DEF": 131000,
+      "HP": 717000,
+      "SPD": 125000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      105,
+      104
+     ],
+     "skills": [
+      102,
+      102,
+      102,
+      101,
+      101,
+      101
+     ],
+     "likes": 569,
+     "name": "Koira",
+     "updated": "2026-09-05T02:03:22-04:00",
+     "notable": "guild",
+     "shot": "shots/player-Koira.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Crypt": {
+   "name": "Crypt",
+   "guild_id": "700340500001",
+   "nexus": 34,
+   "server": 5,
+   "leader": ".Willow",
+   "members": [
+    54,
+    56
+   ],
+   "total_power": 193000000,
+   "activeness": 414000,
+   "slogan": "Join us in the Crypt~ BecomeaCryptid~ You may be removed for inactivity after 2 days We arereally friendly~",
+   "updated": "2026-09-07T23:44:36-04:00",
+   "shot": "shots/guild-Crypt.jpg",
+   "players": {
+    "KullKiller": {
+     "player_id": "700340500468",
+     "nexus": 34,
+     "server": 5,
+     "power": 2700000,
+     "class_level": 97,
+     "cls": "Berserker",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "ValeEcho",
+     "stats": {
+      "ATK": 169000,
+      "DEF": 143000,
+      "HP": 766000,
+      "SPD": 153000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      100,
+      100
+     ],
+     "skills": [
+      112,
+      112,
+      112,
+      112,
+      112,
+      112,
+      112
+     ],
+     "likes": 560,
+     "name": "KullKiller",
+     "updated": "2026-09-07T23:44:36-04:00",
+     "notable": "guild",
+     "shot": "shots/player-KullKiller.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Wistoria☆": {
+   "name": "Wistoria☆",
+   "guild_id": "700340900018",
+   "nexus": 34,
+   "server": 9,
+   "leader": "RxS_RoXaS",
+   "members": [
+    54,
+    57
+   ],
+   "total_power": 188000000,
+   "activeness": 409000,
+   "slogan": "We're like a little chaoticFamily 3x donations, 2x conquest and be active daily. everything else is about fun! see you soon",
+   "updated": "2026-09-09T20:20:18-04:00",
+   "shot": "shots/guild-Wistoria.jpg",
+   "players": {
+    "Auri♡": {
+     "player_id": "700340904083",
+     "power": 6470000,
+     "cls": "Archmage",
+     "class_level": 233,
+     "level": 120,
+     "rank": "Expert III",
+     "title": "Sky of Wonders",
+     "likes": 1740,
+     "stats": {
+      "ATK": 472000,
+      "DEF": 320000,
+      "HP": 2120000,
+      "SPD": 271000
+     },
+     "name": "Auri♡",
+     "updated": "2026-09-06T20:58:27-04:00",
+     "source": "report",
+     "notable": "player",
+     "nexus": 34,
+     "server": 9,
+     "pre_reset": false
+    },
+    "DoctorSnakeWan": {
+     "player_id": "700340900541",
+     "nexus": 34,
+     "server": 9,
+     "power": 4430000,
+     "class_level": 101,
+     "cls": "Berserker",
+     "level": 121,
+     "rank": "Expert II",
+     "title": "Sky of Wonders",
+     "stats": {
+      "ATK": 294000,
+      "DEF": 208000,
+      "HP": 1390000,
+      "SPD": 313000
+     },
+     "equip": [
+      125,
+      125,
+      123,
+      122,
+      121
+     ],
+     "skills": [
+      118,
+      118,
+      118,
+      118,
+      118,
+      118,
+      118,
+      118
+     ],
+     "likes": 1080,
+     "name": "DoctorSnakeWan",
+     "updated": "2026-09-09T20:20:18-04:00",
+     "notable": null,
+     "shot": "shots/player-DoctorSnakeWan.jpg",
+     "pre_reset": false
+    },
+    "IcyBlooms": {
+     "player_id": "700340904188",
+     "nexus": 34,
+     "server": 9,
+     "power": 4130000,
+     "class_level": 93,
+     "cls": "Archmage",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Sky of Wonders",
+     "stats": {
+      "ATK": 291000,
+      "DEF": 304000,
+      "HP": 1280000,
+      "SPD": 216000
+     },
+     "equip": [
+      120,
+      120,
+      120,
+      120,
+      120
+     ],
+     "skills": [
+      112,
+      112,
+      111,
+      111
+     ],
+     "likes": 2900,
+     "name": "IcyBlooms",
+     "updated": "2026-09-09T06:13:05-04:00",
+     "notable": null,
+     "shot": "shots/player-IcyBlooms.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "GoldStar": {
+   "name": "GoldStar",
+   "guild_id": "700341200001",
+   "nexus": 34,
+   "server": 12,
+   "leader": "Lunirana",
+   "members": [
+    54,
+    57
+   ],
+   "total_power": 184000000,
+   "activeness": 402000,
+   "slogan": "Rated five stars. Loved by all. Active Guild Recruiting Dedicated Players! Join us for good vibes and golden times",
+   "updated": "2026-09-09T18:08:05-04:00",
+   "shot": "shots/guild-GoldStar.jpg",
+   "players": {
+    "Ungo": {
+     "player_id": "700341200660",
+     "nexus": 34,
+     "server": 12,
+     "power": 4440000,
+     "class_level": 140,
+     "cls": "Berserker",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 250000,
+      "DEF": 245000,
+      "HP": 1240000,
+      "SPD": 306000
+     },
+     "equip": [
+      134,
+      131,
+      130,
+      130,
+      130
+     ],
+     "skills": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120
+     ],
+     "likes": 3090,
+     "name": "Ungo",
+     "updated": "2026-09-06T20:55:30-04:00",
+     "notable": null,
+     "shot": "shots/player-Ungo.jpg",
+     "pre_reset": false
+    },
+    "GaZ": {
+     "player_id": "700341200489",
+     "nexus": 34,
+     "server": 12,
+     "power": 4230000,
+     "class_level": 107,
+     "cls": "Paladin",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 240000,
+      "DEF": 283000,
+      "HP": 1520000,
+      "SPD": 193000
+     },
+     "equip": [
+      135,
+      134,
+      130,
+      130,
+      130
+     ],
+     "skills": [
+      120,
+      120,
+      120,
+      120,
+      119,
+      119,
+      119,
+      119
+     ],
+     "likes": 1760,
+     "name": "GaZ",
+     "updated": "2026-09-06T23:32:53-04:00",
+     "notable": null,
+     "shot": "shots/player-GaZ.jpg",
+     "pre_reset": false
+    },
+    "Maniac": {
+     "player_id": "700341201645",
+     "nexus": 34,
+     "server": 12,
+     "power": 4070000,
+     "class_level": 108,
+     "cls": "Archmage",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 335000,
+      "DEF": 235000,
+      "HP": 1430000,
+      "SPD": 203000
+     },
+     "equip": [
+      130,
+      130,
+      121,
+      121,
+      120
+     ],
+     "skills": [
+      117,
+      116,
+      116,
+      116
+     ],
+     "likes": 1260,
+     "name": "Maniac",
+     "updated": "2026-09-07T15:07:28-04:00",
+     "notable": null,
+     "shot": "shots/player-Maniac.jpg",
+     "pre_reset": false
+    },
+    "Zanka": {
+     "player_id": "700341204140",
+     "nexus": 34,
+     "server": 12,
+     "power": 3930000,
+     "class_level": 97,
+     "cls": "Berserker",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 274000,
+      "DEF": 187000,
+      "HP": 950000,
+      "SPD": 285000
+     },
+     "equip": [
+      125,
+      125,
+      125,
+      125,
+      125
+     ],
+     "skills": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120
+     ],
+     "likes": 1430,
+     "name": "Zanka",
+     "updated": "2026-09-09T20:25:06-04:00",
+     "notable": null,
+     "shot": "shots/player-Zanka.jpg",
+     "pre_reset": false
+    },
+    "toasty": {
+     "player_id": "700341200416",
+     "nexus": 34,
+     "server": 12,
+     "power": 3030000,
+     "class_level": 89,
+     "cls": "Berserker",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 204000,
+      "DEF": 169000,
+      "HP": 1220000,
+      "SPD": 154000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      108,
+      108,
+      108,
+      108,
+      107,
+      107,
+      107,
+      107
+     ],
+     "likes": 867,
+     "name": "toasty",
+     "updated": "2026-09-06T23:33:07-04:00",
+     "notable": null,
+     "shot": "shots/player-toasty.jpg",
+     "pre_reset": false
+    },
+    "Cenn": {
+     "player_id": "700341202671",
+     "nexus": 34,
+     "server": 12,
+     "power": 2370000,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 115000,
+      "DEF": 116000,
+      "HP": 718000,
+      "SPD": 185000
+     },
+     "equip": [
+      120,
+      120,
+      116,
+      115,
+      115
+     ],
+     "skills": [
+      105,
+      105,
+      105,
+      105,
+      104,
+      104
+     ],
+     "likes": 1090,
+     "name": "Cenn",
+     "updated": "2026-09-05T01:35:32-04:00",
+     "notable": null,
+     "shot": "shots/player-Cenn.jpg",
+     "pre_reset": false
+    },
+    "NazunaX": {
+     "player_id": "700341200299",
+     "nexus": 34,
+     "server": 12,
+     "power": 2330000,
+     "class_level": 91,
+     "cls": "Arcanist",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 137000,
+      "DEF": 148000,
+      "HP": 869000,
+      "SPD": 111000
+     },
+     "equip": [
+      109,
+      109,
+      109,
+      109,
+      108
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      108,
+      108,
+      108,
+      108
+     ],
+     "likes": 664,
+     "name": "NazunaX",
+     "updated": "2026-09-06T23:32:40-04:00",
+     "notable": null,
+     "shot": "shots/player-NazunaX.jpg",
+     "pre_reset": false
+    },
+    "milliemay": {
+     "player_id": "700341201507",
+     "nexus": 34,
+     "server": 12,
+     "power": 2250000,
+     "class_level": 97,
+     "cls": "Arcanist",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 152000,
+      "DEF": 117000,
+      "HP": 900000,
+      "SPD": 120000
+     },
+     "equip": [
+      105,
+      105,
+      102,
+      102,
+      102
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      114,
+      114,
+      114,
+      114
+     ],
+     "likes": 512,
+     "name": "milliemay",
+     "updated": "2026-09-08T18:50:37-04:00",
+     "notable": null,
+     "shot": "shots/player-milliemay.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Leafs": {
+   "name": "Leafs",
+   "guild_id": "700341100001",
+   "nexus": 34,
+   "server": 11,
+   "leader": "Falatin",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 181000000,
+   "activeness": 388000,
+   "slogan": "The leaves don't choose the tree,but we chose this one",
+   "updated": "2026-09-08T18:21:22-04:00",
+   "shot": "shots/guild-Leafs.jpg",
+   "players": {
+    "scatz": {
+     "player_id": "700341101040",
+     "nexus": 34,
+     "server": 11,
+     "power": 2550000,
+     "class_level": 110,
+     "cls": "Berserker",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Auspice Beasts",
+     "stats": {
+      "ATK": 190000,
+      "DEF": 137000,
+      "HP": 719000,
+      "SPD": 135000
+     },
+     "equip": [
+      120,
+      116,
+      115,
+      115
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      109,
+      109,
+      108,
+      108
+     ],
+     "likes": 639,
+     "name": "scatz",
+     "updated": "2026-09-08T18:30:19-04:00",
+     "notable": null,
+     "shot": "shots/player-scatz.jpg",
+     "pre_reset": false
+    },
+    "ErenYeager": {
+     "player_id": "700341102011",
+     "nexus": 34,
+     "server": 11,
+     "power": 2400000,
+     "class_level": 111,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Auspice Beasts",
+     "stats": {
+      "ATK": 169000,
+      "DEF": 121000,
+      "HP": 755000,
+      "SPD": 110000
+     },
+     "equip": [
+      120,
+      120,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 473,
+     "name": "ErenYeager",
+     "updated": "2026-09-08T06:13:32-04:00",
+     "notable": null,
+     "shot": "shots/player-ErenYeager.jpg",
+     "pre_reset": false
+    },
+    "Anboapui": {
+     "player_id": "700341103905",
+     "nexus": 34,
+     "server": 11,
+     "power": 2270000,
+     "class_level": 89,
+     "cls": "Berserker",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "AuspiceBeasts",
+     "stats": {
+      "ATK": 203000,
+      "DEF": 134000,
+      "HP": 636000,
+      "SPD": 107000
+     },
+     "equip": [
+      115,
+      115,
+      113,
+      110
+     ],
+     "skills": [
+      109,
+      109,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108
+     ],
+     "likes": 428,
+     "name": "Anboapui",
+     "updated": "2026-09-09T04:54:55-04:00",
+     "notable": null,
+     "shot": "shots/player-Anboapui.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Luminous": {
+   "name": "Luminous",
+   "guild_id": "700340700002",
+   "nexus": 34,
+   "server": 7,
+   "leader": "Pearlyy",
+   "members": [
+    51,
+    56
+   ],
+   "total_power": 178000000,
+   "activeness": 404000,
+   "slogan": "casual/competitive optional discordserver with helpful guides lets grow together!",
+   "updated": "2026-09-09T18:16:23-04:00",
+   "shot": "shots/guild-Luminous.jpg",
+   "players": {
+    "Divr": {
+     "player_id": "700340702375",
+     "power": 6400000,
+     "cls": "Archmage",
+     "class_level": 182,
+     "level": 123,
+     "rank": "Expert III",
+     "title": "Cicada Bloom",
+     "likes": 3180,
+     "stats": {
+      "ATK": 498000,
+      "DEF": 373000,
+      "HP": 1570000,
+      "SPD": 367000
+     },
+     "name": "Divr",
+     "updated": "2026-09-06T20:58:27-04:00",
+     "source": "report",
+     "notable": "player",
+     "nexus": 34,
+     "server": 7,
+     "pre_reset": false
+    },
+    "Alastis": {
+     "player_id": "700340700179",
+     "nexus": 34,
+     "server": 7,
+     "power": 2350000,
+     "class_level": 97,
+     "cls": "Arcanist",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Cicada Bloom",
+     "stats": {
+      "ATK": 144000,
+      "DEF": 133000,
+      "HP": 882000,
+      "SPD": 110000
+     },
+     "equip": [
+      120,
+      113,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      114,
+      114,
+      113
+     ],
+     "likes": 526,
+     "name": "Alastis",
+     "updated": "2026-09-09T18:16:23-04:00",
+     "notable": null,
+     "shot": "shots/player-Alastis.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "KnightsRadiant": {
+   "name": "KnightsRadiant",
+   "guild_id": "700341300001",
+   "nexus": 34,
+   "server": 13,
+   "leader": "Kaladin",
+   "members": [
+    56,
+    56
+   ],
+   "total_power": 175000000,
+   "activeness": 402000,
+   "slogan": "Helpful members happy to help! 48h without notice= removed! Active discord! Set conquest times! Have fun and be active!",
+   "updated": "2026-09-09T05:02:52-04:00",
+   "shot": "shots/guild-KnightsRadiant.jpg",
+   "players": {
+    "Eruuuuu": {
+     "player_id": "700341305079",
+     "nexus": 34,
+     "server": 13,
+     "power": 4130000,
+     "class_level": 155,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "-Formless Waters",
+     "stats": {
+      "ATK": 361000,
+      "DEF": 201000,
+      "HP": 983000,
+      "SPD": 226000
+     },
+     "equip": [
+      120,
+      120,
+      117,
+      115,
+      115
+     ],
+     "skills": [
+      116,
+      116,
+      116,
+      116,
+      116,
+      116
+     ],
+     "likes": 2390,
+     "name": "Eruuuuu",
+     "updated": "2026-09-06T08:31:04-04:00",
+     "notable": null,
+     "shot": "shots/player-Eruuuuu.jpg",
+     "pre_reset": false
+    },
+    "MaidArcane": {
+     "player_id": "700341301839",
+     "nexus": 34,
+     "server": 13,
+     "power": 3290000,
+     "class_level": 115,
+     "cls": "Arcanist",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "-Formless Waters",
+     "stats": {
+      "ATK": 261000,
+      "DEF": 194000,
+      "HP": 1180000,
+      "SPD": 158000
+     },
+     "equip": [
+      117,
+      116,
+      116,
+      116,
+      115
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      113,
+      113
+     ],
+     "likes": 2790,
+     "name": "MaidArcane",
+     "updated": "2026-09-05T20:39:35-04:00",
+     "notable": null,
+     "shot": "shots/player-MaidArcane.jpg",
+     "pre_reset": false
+    },
+    "BYNX": {
+     "player_id": "700341300878",
+     "nexus": 34,
+     "server": 13,
+     "power": 2410000,
+     "class_level": 101,
+     "cls": "Berserker",
+     "level": 111,
+     "rank": "Expert II",
+     "title": "-Formless Waters",
+     "stats": {
+      "ATK": 177000,
+      "DEF": 143000,
+      "HP": 850000,
+      "SPD": 134000
+     },
+     "equip": [
+      110,
+      110,
+      106,
+      105,
+      105
+     ],
+     "skills": [
+      111,
+      111,
+      111,
+      111,
+      111
+     ],
+     "likes": 431,
+     "name": "BYNX",
+     "updated": "2026-09-07T18:45:44-04:00",
+     "notable": null,
+     "shot": "shots/player-BYNX.jpg",
+     "pre_reset": false
+    },
+    "Polip": {
+     "player_id": "700341302988",
+     "nexus": 34,
+     "server": 13,
+     "power": 2370000,
+     "class_level": 113,
+     "cls": "Arcanist",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "-Formless Waters",
+     "stats": {
+      "ATK": 135000,
+      "DEF": 132000,
+      "HP": 920000,
+      "SPD": 120000
+     },
+     "equip": [
+      115,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      101,
+      101,
+      101,
+      101,
+      101,
+      101,
+      100,
+      100
+     ],
+     "likes": 848,
+     "name": "Polip",
+     "updated": "2026-09-09T05:29:18-04:00",
+     "notable": null,
+     "shot": "shots/player-Polip.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Astra": {
+   "name": "Astra",
+   "guild_id": "700340400032",
+   "nexus": 34,
+   "server": 4,
+   "leader": "KITTYCORE",
+   "members": [
+    55,
+    57
+   ],
+   "total_power": 173000000,
+   "activeness": 422000,
+   "slogan": "No matter where you go,everyone's connected.-If you wanna join PM either Irathi orSmok",
+   "updated": "2026-09-07T06:56:06-04:00",
+   "shot": "shots/guild-Astra.jpg",
+   "players": {
+    "Steliana": {
+     "player_id": "700340404749",
+     "nexus": 34,
+     "server": 4,
+     "power": 2510000,
+     "class_level": 101,
+     "cls": "Archmage",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "GoldenSurge",
+     "stats": {
+      "ATK": 191000,
+      "DEF": 166000,
+      "HP": 688000,
+      "SPD": 137000
+     },
+     "equip": [
+      120,
+      116,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      116,
+      116,
+      115,
+      115
+     ],
+     "likes": 878,
+     "name": "Steliana",
+     "updated": "2026-09-07T08:32:51-04:00",
+     "notable": null,
+     "shot": "shots/player-Steliana.jpg",
+     "pre_reset": false
+    },
+    "Yonku": {
+     "player_id": "700340400268",
+     "nexus": 34,
+     "server": 4,
+     "power": 2430000,
+     "class_level": 93,
+     "cls": "Archmage",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "GoldenSurge",
+     "stats": {
+      "ATK": 156000,
+      "DEF": 144000,
+      "HP": 688000,
+      "SPD": 111000
+     },
+     "equip": [
+      114,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      116,
+      116,
+      116,
+      116,
+      115,
+      115,
+      115
+     ],
+     "likes": 639,
+     "name": "Yonku",
+     "updated": "2026-09-07T06:56:06-04:00",
+     "notable": null,
+     "shot": "shots/player-Yonku.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Godfkrrer": {
+   "name": "Godfkrrer",
+   "guild_id": "700340700005",
+   "nexus": 34,
+   "server": 7,
+   "leader": "Frankyo",
+   "members": [
+    53,
+    56
+   ],
+   "total_power": 170000000,
+   "activeness": 392000,
+   "slogan": "Optional Discord server for our guild, guides included Feel free to chat with us and ask questions and seek help with dungeons",
+   "updated": "2026-09-08T20:00:39-04:00",
+   "shot": "shots/guild-Godfkrrer.jpg",
+   "players": {
+    "Onezz": {
+     "player_id": "700340702759",
+     "nexus": 34,
+     "server": 7,
+     "power": 4360000,
+     "class_level": 140,
+     "cls": "Berserker",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "CicadaBloom",
+     "stats": {
+      "ATK": 285000,
+      "DEF": 260000,
+      "HP": 922000,
+      "SPD": 311000
+     },
+     "equip": [
+      130,
+      130,
+      128,
+      125,
+      125
+     ],
+     "skills": [
+      119,
+      119,
+      119,
+      119,
+      119,
+      119
+     ],
+     "likes": 1290,
+     "name": "Onezz",
+     "updated": "2026-09-06T02:09:31-04:00",
+     "notable": null,
+     "shot": "shots/player-Onezz.jpg",
+     "pre_reset": false
+    },
+    "marinetteparis": {
+     "player_id": "700340703068",
+     "nexus": 34,
+     "server": 7,
+     "power": 2550000,
+     "class_level": 91,
+     "cls": "Arcanist",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "CicadaBloom",
+     "stats": {
+      "ATK": 142000,
+      "DEF": 141000,
+      "HP": 899000,
+      "SPD": 114000
+     },
+     "equip": [
+      107,
+      105,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      110,
+      109,
+      109,
+      109,
+      109
+     ],
+     "likes": 1420,
+     "name": "marinetteparis",
+     "updated": "2026-09-06T05:43:55-04:00",
+     "notable": null,
+     "shot": "shots/player-marinetteparis.jpg",
+     "pre_reset": false
+    },
+    "Tipsoda": {
+     "player_id": "700340702068",
+     "nexus": 34,
+     "server": 7,
+     "power": 2490000,
+     "class_level": 91,
+     "cls": "Archmage",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "CicadaBloom",
+     "stats": {
+      "ATK": 183000,
+      "DEF": 183000,
+      "HP": 760000,
+      "SPD": 105000
+     },
+     "equip": [
+      115,
+      115,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      106,
+      106,
+      106,
+      106,
+      106,
+      106,
+      106
+     ],
+     "likes": 717,
+     "name": "Tipsoda",
+     "updated": "2026-09-09T06:00:44-04:00",
+     "notable": null,
+     "shot": "shots/player-Tipsoda.jpg",
+     "pre_reset": false
+    },
+    "Zythx": {
+     "player_id": "700340705156",
+     "nexus": 34,
+     "server": 7,
+     "power": 2430000,
+     "class_level": 95,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Cicada Bloom",
+     "stats": {
+      "ATK": 193000,
+      "DEF": 123000,
+      "HP": 735000,
+      "SPD": 109000
+     },
+     "equip": [
+      105,
+      105,
+      104,
+      100,
+      100
+     ],
+     "skills": [
+      103,
+      103,
+      103,
+      102,
+      102,
+      102,
+      102
+     ],
+     "likes": 685,
+     "name": "Zythx",
+     "updated": "2026-09-08T20:00:39-04:00",
+     "notable": null,
+     "shot": "shots/player-Zythx.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "BB_Training_Camp": {
+   "name": "BB_Training_Camp",
+   "guild_id": "700340900028",
+   "nexus": 34,
+   "server": 9,
+   "leader": "Milanor",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 170000000,
+   "activeness": 392000,
+   "slogan": "You got a big boooty? WE DO TOO! Join BB Training Camp for fun and laughs and we will teach You, how to use dat boooty. :D",
+   "updated": "2026-09-09T07:52:22-04:00",
+   "shot": "shots/guild-BB_Training_Camp.jpg",
+   "players": {
+    "Vandroiy": {
+     "player_id": "700340903262",
+     "nexus": 34,
+     "server": 9,
+     "power": 4920000,
+     "class_level": 203,
+     "cls": "Arcanist",
+     "level": 122,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 492000,
+      "DEF": 370000,
+      "HP": 2370000,
+      "SPD": 253000
+     },
+     "equip": [
+      145,
+      145,
+      145,
+      145,
+      145
+     ],
+     "skills": [
+      122,
+      122,
+      122,
+      122,
+      122
+     ],
+     "likes": 6630,
+     "name": "Vandroiy",
+     "updated": "2026-09-08T06:43:53-04:00",
+     "notable": "player",
+     "shot": "shots/player-Vandroiy.jpg",
+     "pre_reset": false
+    },
+    "碧池Bichi": {
+     "player_id": "700340901349",
+     "nexus": 34,
+     "server": 9,
+     "power": 4590000,
+     "class_level": 148,
+     "cls": "Arcanist",
+     "level": 120,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 330000,
+      "DEF": 241000,
+      "HP": 1540000,
+      "SPD": 243000
+     },
+     "equip": [
+      135,
+      135,
+      135,
+      135,
+      135
+     ],
+     "skills": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      119
+     ],
+     "likes": 1830,
+     "name": "碧池Bichi",
+     "updated": "2026-09-07T18:50:33-04:00",
+     "notable": "player",
+     "shot": "shots/player-Bichi.jpg",
+     "pre_reset": false
+    },
+    "IrisLili": {
+     "player_id": "700340905207",
+     "nexus": 34,
+     "server": 9,
+     "class_level": 142,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 243000,
+      "DEF": 150000,
+      "HP": 1210000,
+      "SPD": 177000
+     },
+     "equip": [
+      119,
+      119,
+      119,
+      119,
+      117
+     ],
+     "skills": [
+      117,
+      117,
+      116
+     ],
+     "likes": 497,
+     "name": "IrisLili",
+     "updated": "2026-09-09T01:30:34-04:00",
+     "notable": null,
+     "shot": "shots/player-IrisLili.jpg",
+     "power": 3530000,
+     "pre_reset": false
+    },
+    "adik": {
+     "player_id": "700340901053",
+     "nexus": 34,
+     "server": 9,
+     "power": 2670000,
+     "class_level": 97,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 274000,
+      "DEF": 159000,
+      "HP": 755000,
+      "SPD": 113000
+     },
+     "equip": [
+      117,
+      115,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      113,
+      113,
+      113,
+      113,
+      113
+     ],
+     "likes": 666,
+     "name": "adik",
+     "updated": "2026-09-09T04:08:12-04:00",
+     "notable": null,
+     "shot": "shots/player-adik.jpg",
+     "pre_reset": false
+    },
+    "Satyk": {
+     "player_id": "700340903689",
+     "nexus": 34,
+     "server": 9,
+     "power": 2650000,
+     "class_level": 97,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 175000,
+      "DEF": 162000,
+      "HP": 798000,
+      "SPD": 122000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      109,
+      106
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      108,
+      107,
+      107,
+      106
+     ],
+     "likes": 690,
+     "name": "Satyk",
+     "updated": "2026-09-09T07:52:22-04:00",
+     "notable": null,
+     "shot": "shots/player-Satyk.jpg",
+     "pre_reset": false
+    },
+    "ugh": {
+     "player_id": "700340900595",
+     "nexus": 34,
+     "server": 9,
+     "power": 2370000,
+     "class_level": 99,
+     "cls": "Arcanist",
+     "level": 114,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 147000,
+      "DEF": 127000,
+      "HP": 750000,
+      "SPD": 145000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      107
+     ],
+     "skills": [
+      106,
+      106,
+      106,
+      106,
+      105,
+      105,
+      105,
+      105
+     ],
+     "likes": 625,
+     "name": "ugh",
+     "updated": "2026-09-06T03:53:33-04:00",
+     "notable": null,
+     "shot": "shots/player-ugh.jpg",
+     "pre_reset": false
+    },
+    "Fistandantilus": {
+     "player_id": "700340905169",
+     "nexus": 34,
+     "server": 9,
+     "power": 2340000,
+     "class_level": 91,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 181000,
+      "DEF": 152000,
+      "HP": 580000,
+      "SPD": 123000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      95
+     ],
+     "skills": [
+      97,
+      97,
+      97,
+      97,
+      97,
+      96,
+      96
+     ],
+     "likes": 519,
+     "name": "Fistandantilus",
+     "updated": "2026-09-07T18:50:12-04:00",
+     "notable": null,
+     "shot": "shots/player-Fistandantilus.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Rankers": {
+   "name": "Rankers",
+   "guild_id": "700341400191",
+   "nexus": 34,
+   "server": 14,
+   "leader": "WangLing",
+   "members": [
+    56,
+    56
+   ],
+   "total_power": 168000000,
+   "activeness": 366000,
+   "slogan": "Lost? Confused? We understand, and we're here if you need a hug.First one is free, the second one will cost you. Join today.",
+   "updated": "2026-09-09T00:53:16-04:00",
+   "shot": "shots/guild-Rankers.jpg",
+   "players": {
+    "Wenyu": {
+     "player_id": "700341403605",
+     "nexus": 34,
+     "server": 14,
+     "power": 2710000,
+     "class_level": 90,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Eternal Flame",
+     "stats": {
+      "ATK": 152000,
+      "DEF": 292000,
+      "HP": 678000,
+      "SPD": 133000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      107,
+      105
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 1010,
+     "name": "Wenyu",
+     "updated": "2026-09-09T00:53:16-04:00",
+     "notable": null,
+     "shot": "shots/player-Wenyu.jpg",
+     "pre_reset": false
+    },
+    "Silmeria": {
+     "player_id": "700341401795",
+     "nexus": 34,
+     "server": 14,
+     "class_level": 97,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Eternal Flame",
+     "stats": {
+      "ATK": 228000,
+      "DEF": 177000,
+      "HP": 824000,
+      "SPD": 115000
+     },
+     "equip": [
+      110,
+      109,
+      109,
+      109,
+      109
+     ],
+     "skills": [
+      109,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108
+     ],
+     "likes": 638,
+     "name": "Silmeria",
+     "updated": "2026-09-06T23:58:45-04:00",
+     "notable": null,
+     "shot": "shots/player-Silmeria.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "RoyalCrusaders": {
+   "name": "RoyalCrusaders",
+   "guild_id": "700341500038",
+   "nexus": 34,
+   "server": 15,
+   "leader": "Lord_Meep",
+   "members": [
+    54,
+    56
+   ],
+   "total_power": 160000000,
+   "activeness": 392000,
+   "slogan": "Join the royal Crusaders.We fight with honor.lf gone for 3 days with no pm with leaders than kick.",
+   "updated": "2026-09-08T22:42:19-04:00",
+   "shot": "shots/guild-RoyalCrusaders.jpg",
+   "players": {
+    "Raize": {
+     "player_id": "700341502800",
+     "nexus": 34,
+     "server": 15,
+     "power": 3900000,
+     "class_level": 139,
+     "cls": "Arcanist",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Lantern Rise",
+     "stats": {
+      "ATK": 342000,
+      "DEF": 205000,
+      "HP": 1430000,
+      "SPD": 158000
+     },
+     "equip": [
+      110,
+      108,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 899,
+     "name": "Raize",
+     "updated": "2026-09-05T19:53:52-04:00",
+     "notable": null,
+     "shot": "shots/player-Raize.jpg",
+     "pre_reset": false
+    },
+    "Moondance": {
+     "player_id": "700341502886",
+     "nexus": 34,
+     "server": 15,
+     "power": 2530000,
+     "class_level": 94,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Lantern Rise",
+     "stats": {
+      "ATK": 214000,
+      "DEF": 136000,
+      "HP": 756000,
+      "SPD": 140000
+     },
+     "equip": [
+      103,
+      103,
+      102,
+      102,
+      102
+     ],
+     "skills": [
+      108,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108,
+      107
+     ],
+     "likes": 500,
+     "name": "Moondance",
+     "updated": "2026-09-07T17:03:59-04:00",
+     "notable": null,
+     "shot": "shots/player-Moondance.jpg",
+     "pre_reset": false
+    },
+    "lolcow": {
+     "player_id": "700341500169",
+     "nexus": 34,
+     "server": 15,
+     "power": 2390000,
+     "class_level": 90,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Lantern Rise",
+     "stats": {
+      "ATK": 138000,
+      "DEF": 133000,
+      "HP": 704000,
+      "SPD": 133000
+     },
+     "equip": [
+      104,
+      104,
+      103
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      109,
+      108,
+      108,
+      108
+     ],
+     "likes": 895,
+     "name": "lolcow",
+     "updated": "2026-09-07T02:08:57-04:00",
+     "notable": null,
+     "shot": "shots/player-lolcow.jpg",
+     "pre_reset": false
+    },
+    "OhMyGad": {
+     "player_id": "700341500586",
+     "nexus": 34,
+     "server": 15,
+     "power": 2380000,
+     "class_level": 100,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Lantern Rise",
+     "stats": {
+      "ATK": 160000,
+      "DEF": 135000,
+      "HP": 642000,
+      "SPD": 112000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      98
+     ],
+     "skills": [
+      97,
+      97,
+      97,
+      97,
+      96,
+      96,
+      96,
+      96
+     ],
+     "likes": 591,
+     "name": "OhMyGad",
+     "updated": "2026-09-07T04:32:10-04:00",
+     "notable": null,
+     "shot": "shots/player-OhMyGad.jpg",
+     "pre_reset": false
+    },
+    "Ateezy": {
+     "player_id": "700341502864",
+     "nexus": 34,
+     "server": 15,
+     "power": 2350000,
+     "class_level": 102,
+     "cls": "Arcanist",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Lantern Rise",
+     "stats": {
+      "ATK": 153000,
+      "DEF": 151000,
+      "HP": 780000,
+      "SPD": 96200
+     },
+     "equip": [
+      109,
+      109,
+      108,
+      108,
+      108
+     ],
+     "skills": [
+      115,
+      115,
+      114,
+      114
+     ],
+     "likes": 624,
+     "name": "Ateezy",
+     "updated": "2026-09-08T22:42:19-04:00",
+     "notable": null,
+     "shot": "shots/player-Ateezy.jpg",
+     "pre_reset": false
+    },
+    "Zynie": {
+     "player_id": "700341500099",
+     "nexus": 34,
+     "server": 15,
+     "class_level": 90,
+     "cls": "Archmage",
+     "level": 112,
+     "rank": "Expert II",
+     "title": "Lantern Rise",
+     "stats": {
+      "ATK": 185000,
+      "DEF": 159000,
+      "HP": 678000,
+      "SPD": 86800
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      102,
+      100
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 835,
+     "name": "Zynie",
+     "updated": "2026-09-05T19:53:16-04:00",
+     "notable": null,
+     "shot": "shots/player-Zynie.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "NCM.Association": {
+   "name": "NCM.Association",
+   "guild_id": "700340400003",
+   "nexus": 34,
+   "server": 4,
+   "leader": "Mahinator",
+   "members": [
+    51,
+    56
+   ],
+   "total_power": 160000000,
+   "activeness": 382000,
+   "slogan": "OdULManbHaA pyCCKOA3bI4HaA rUnbAMA NCM.",
+   "updated": "2026-09-08T03:05:18-04:00",
+   "shot": "shots/guild-NCM-Association.jpg",
+   "players": {
+    "Near": {
+     "player_id": "700340401115",
+     "nexus": 34,
+     "server": 4,
+     "power": 3820000,
+     "class_level": 10,
+     "cls": "Archmage",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "GoldenSurge",
+     "stats": {
+      "ATK": 287000,
+      "DEF": 252000,
+      "HP": 923000,
+      "SPD": 244000
+     },
+     "equip": [
+      125,
+      125,
+      125,
+      125,
+      122
+     ],
+     "skills": [
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115
+     ],
+     "likes": 887,
+     "name": "Near",
+     "updated": "2026-09-06T03:56:37-04:00",
+     "notable": null,
+     "shot": "shots/player-Near.jpg",
+     "pre_reset": false
+    },
+    "Staffie": {
+     "player_id": "700340403460",
+     "nexus": 34,
+     "server": 4,
+     "power": 2980000,
+     "class_level": 113,
+     "cls": "Archmage",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "GoldenSurge",
+     "stats": {
+      "ATK": 286000,
+      "DEF": 136000,
+      "HP": 954000,
+      "SPD": 161000
+     },
+     "equip": [
+      116,
+      115,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      112,
+      112,
+      112,
+      112,
+      111,
+      111,
+      111
+     ],
+     "likes": 538,
+     "name": "Staffie",
+     "updated": "2026-09-07T04:38:00-04:00",
+     "notable": null,
+     "shot": "shots/player-Staffie.jpg",
+     "pre_reset": false
+    },
+    "Ohbobque": {
+     "player_id": "700340404819",
+     "nexus": 34,
+     "server": 4,
+     "power": 2340000,
+     "class_level": 103,
+     "cls": "Berserker",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "GoldenSurge",
+     "stats": {
+      "ATK": 153000,
+      "DEF": 137000,
+      "HP": 670000,
+      "SPD": 142000
+     },
+     "equip": [
+      110,
+      110,
+      109,
+      107,
+      105
+     ],
+     "skills": [
+      116,
+      116,
+      116,
+      116,
+      116,
+      116,
+      116
+     ],
+     "likes": 554,
+     "name": "Ohbobque",
+     "updated": "2026-09-08T03:05:18-04:00",
+     "notable": null,
+     "shot": "shots/player-Ohbobque.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "LovelyLegion": {
+   "name": "LovelyLegion",
+   "guild_id": "700340500165",
+   "nexus": 34,
+   "server": 5,
+   "leader": "Voidkat",
+   "members": [
+    56,
+    57
+   ],
+   "total_power": 159000000,
+   "activeness": 388000,
+   "slogan": "Be active when you can, have fun :) If you're interested but no spot is open shoot me a message",
+   "updated": "2026-09-07T15:15:57-04:00",
+   "shot": "shots/guild-LovelyLegion.jpg",
+   "players": {
+    "Byxno": {
+     "player_id": "700340501705",
+     "nexus": 34,
+     "server": 5,
+     "power": 2630000,
+     "class_level": 101,
+     "cls": "Archmage",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "ValeEcho",
+     "stats": {
+      "ATK": 203000,
+      "DEF": 148000,
+      "HP": 703000,
+      "SPD": 143000
+     },
+     "equip": [
+      118,
+      115,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      116,
+      115,
+      115
+     ],
+     "likes": 590,
+     "name": "Byxno",
+     "updated": "2026-09-08T02:18:09-04:00",
+     "notable": null,
+     "shot": "shots/player-Byxno.jpg",
+     "pre_reset": false
+    },
+    "Bass42": {
+     "player_id": "700340503555",
+     "nexus": 34,
+     "server": 5,
+     "power": 2370000,
+     "class_level": 91,
+     "cls": "Berserker",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "ValeEcho",
+     "stats": {
+      "ATK": 144000,
+      "DEF": 128000,
+      "HP": 807000,
+      "SPD": 136000
+     },
+     "equip": [
+      110,
+      110,
+      106,
+      105,
+      105
+     ],
+     "skills": [
+      113,
+      112,
+      112,
+      112,
+      112,
+      112,
+      112
+     ],
+     "likes": 460,
+     "name": "Bass42",
+     "updated": "2026-09-07T17:40:00-04:00",
+     "notable": null,
+     "shot": "shots/player-Bass42.jpg",
+     "pre_reset": false
+    },
+    "GCTV": {
+     "player_id": "700340500609",
+     "nexus": 34,
+     "server": 5,
+     "power": 2250000,
+     "class_level": 952,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "ValeEcho",
+     "stats": {
+      "ATK": 160000,
+      "DEF": 131000,
+      "HP": 746000,
+      "SPD": 111000
+     },
+     "equip": [
+      106,
+      106,
+      106,
+      106,
+      105
+     ],
+     "skills": [
+      113,
+      113,
+      112,
+      112,
+      112,
+      112,
+      112,
+      112
+     ],
+     "likes": 373,
+     "name": "GCTV",
+     "updated": "2026-09-06T05:03:45-04:00",
+     "notable": null,
+     "shot": "shots/player-GCTV.jpg",
+     "pre_reset": false
+    },
+    "Omlette": {
+     "player_id": "700340502513",
+     "nexus": 34,
+     "server": 5,
+     "power": 2250000,
+     "class_level": 89,
+     "cls": "Arcanist",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "ValeEcho",
+     "stats": {
+      "ATK": 161000,
+      "DEF": 135000,
+      "HP": 771000,
+      "SPD": 96100
+     },
+     "equip": [
+      112,
+      111,
+      111,
+      111,
+      11
+     ],
+     "skills": [
+      117,
+      117,
+      117,
+      116,
+      116,
+      109,
+      109,
+      109
+     ],
+     "likes": 1250,
+     "name": "Omlette",
+     "updated": "2026-09-07T15:15:57-04:00",
+     "notable": null,
+     "shot": "shots/player-Omlette.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "CrimzonArmony": {
+   "name": "CrimzonArmony",
+   "guild_id": "700341200129",
+   "nexus": 34,
+   "server": 12,
+   "leader": ".Galatea.",
+   "members": [
+    56,
+    56
+   ],
+   "total_power": 157000000,
+   "activeness": 365000,
+   "slogan": "La ecensia de la vida,es ayudar,necesitamos gente como tu,si tu,unete a nosotros,ayudemonos juntos,seamos la diferencia\\(OwO)/",
+   "updated": "2026-09-09T07:58:29-04:00",
+   "shot": "shots/guild-CrimzonArmony.jpg",
+   "players": {
+    "Varin": {
+     "player_id": "700341204310",
+     "nexus": 34,
+     "server": 12,
+     "power": 3240000,
+     "class_level": 89,
+     "cls": "Paladin",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 138000,
+      "DEF": 270000,
+      "HP": 816000,
+      "SPD": 195000
+     },
+     "equip": [
+      116,
+      116,
+      116,
+      116,
+      115
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      109,
+      109,
+      108
+     ],
+     "likes": 1120,
+     "name": "Varin",
+     "updated": "2026-09-08T22:48:33-04:00",
+     "notable": null,
+     "shot": "shots/player-Varin.jpg",
+     "pre_reset": false
+    },
+    "Rima": {
+     "player_id": "700341204222",
+     "nexus": 34,
+     "server": 12,
+     "power": 2660000,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 244000,
+      "DEF": 130000,
+      "HP": 741000,
+      "SPD": 108000
+     },
+     "equip": [
+      120,
+      120,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      108,
+      108,
+      108,
+      108,
+      108,
+      107,
+      107
+     ],
+     "likes": 444,
+     "name": "Rima",
+     "updated": "2026-09-08T19:19:45-04:00",
+     "notable": null,
+     "shot": "shots/player-Rima.jpg",
+     "pre_reset": false
+    },
+    "Sony.core": {
+     "player_id": "700341204913",
+     "nexus": 34,
+     "server": 12,
+     "power": 2610000,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 193000,
+      "DEF": 196000,
+      "HP": 948000,
+      "SPD": 114000
+     },
+     "equip": [
+      98,
+      98,
+      98
+     ],
+     "skills": [
+      103,
+      103,
+      103,
+      103,
+      102,
+      102,
+      102
+     ],
+     "likes": 494,
+     "name": "Sony.core",
+     "updated": "2026-09-09T08:04:07-04:00",
+     "notable": null,
+     "shot": "shots/player-Sony-core.jpg",
+     "pre_reset": false
+    },
+    "Cruzf": {
+     "player_id": "700341203542",
+     "nexus": 34,
+     "server": 12,
+     "power": 2480000,
+     "class_level": 84,
+     "cls": "Berserker",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 137000,
+      "DEF": 146000,
+      "HP": 810000,
+      "SPD": 189000
+     },
+     "equip": [
+      110,
+      105,
+      104,
+      100,
+      100
+     ],
+     "skills": [
+      103,
+      103,
+      103,
+      103,
+      103,
+      102,
+      102
+     ],
+     "likes": 592,
+     "name": "Cruzf",
+     "updated": "2026-09-07T07:51:04-04:00",
+     "notable": null,
+     "shot": "shots/player-Cruzf.jpg",
+     "pre_reset": false
+    },
+    "Shrimper": {
+     "player_id": "700341204336",
+     "nexus": 34,
+     "server": 12,
+     "power": 2320000,
+     "class_level": 108,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 160000,
+      "DEF": 142000,
+      "HP": 763000,
+      "SPD": 102000
+     },
+     "equip": [
+      104,
+      102,
+      102,
+      102,
+      102
+     ],
+     "skills": [
+      105,
+      105,
+      105,
+      104,
+      104,
+      104,
+      104
+     ],
+     "likes": 676,
+     "name": "Shrimper",
+     "updated": "2026-09-08T19:45:00-04:00",
+     "notable": null,
+     "shot": "shots/player-Shrimper.jpg",
+     "pre_reset": false
+    },
+    "OZO": {
+     "player_id": "700341204879",
+     "nexus": 34,
+     "server": 12,
+     "power": 2300000,
+     "class_level": 82,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 158000,
+      "DEF": 140000,
+      "HP": 645000,
+      "SPD": 106000
+     },
+     "equip": [
+      105,
+      105,
+      101,
+      100,
+      100
+     ],
+     "skills": [
+      101,
+      101,
+      101,
+      100,
+      100,
+      100,
+      100
+     ],
+     "likes": 643,
+     "name": "OZO",
+     "updated": "2026-09-09T05:54:17-04:00",
+     "notable": null,
+     "shot": "shots/player-OZO.jpg",
+     "pre_reset": false
+    },
+    "Nightlight": {
+     "player_id": "700341205123",
+     "nexus": 34,
+     "server": 12,
+     "power": 2260000,
+     "class_level": 90,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 160000,
+      "DEF": 121000,
+      "HP": 581000,
+      "SPD": 142000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      102,
+      100
+     ],
+     "skills": [
+      99,
+      99,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+     ],
+     "likes": 506,
+     "name": "Nightlight",
+     "updated": "2026-09-08T00:36:20-04:00",
+     "notable": null,
+     "shot": "shots/player-Nightlight.jpg",
+     "pre_reset": false
+    },
+    "neajck": {
+     "player_id": "700341204673",
+     "nexus": 34,
+     "server": 12,
+     "class_level": 90,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 187000,
+      "DEF": 135000,
+      "HP": 596000,
+      "SPD": 101000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      11
+     ],
+     "skills": [
+      110,
+      110,
+      109,
+      109
+     ],
+     "likes": 541,
+     "name": "neajck",
+     "updated": "2026-09-08T22:48:50-04:00",
+     "notable": null,
+     "shot": "shots/player-neajck.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "EndlessRomance": {
+   "name": "EndlessRomance",
+   "guild_id": "700341200038",
+   "nexus": 34,
+   "server": 12,
+   "leader": "Deep",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 154000000,
+   "activeness": 396000,
+   "slogan": "Strong together. Loyal forever. Active players welcome. pm if interested. [EN/ES]",
+   "updated": "2026-09-09T18:49:01-04:00",
+   "shot": "shots/guild-EndlessRomance.jpg",
+   "players": {
+    "Sunekuto": {
+     "player_id": "700341203830",
+     "nexus": 34,
+     "server": 12,
+     "power": 4360000,
+     "class_level": 155,
+     "cls": "Arcanist",
+     "level": 122,
+     "rank": "Expert II",
+     "title": "Endlless Romance",
+     "stats": {
+      "ATK": 278000,
+      "DEF": 212000,
+      "HP": 1860000,
+      "SPD": 213000
+     },
+     "equip": [
+      116,
+      116,
+      116,
+      116,
+      115
+     ],
+     "likes": 1000,
+     "name": "Sunekuto",
+     "updated": "2026-09-09T18:49:01-04:00",
+     "notable": null,
+     "shot": "shots/player-Sunekuto.jpg",
+     "pre_reset": false
+    },
+    "Deep": {
+     "player_id": "700341201660",
+     "nexus": 34,
+     "server": 12,
+     "power": 3300000,
+     "class_level": 114,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endlless Romance",
+     "stats": {
+      "ATK": 229000,
+      "DEF": 191000,
+      "HP": 996000,
+      "SPD": 221000
+     },
+     "equip": [
+      109,
+      108,
+      108,
+      108,
+      108
+     ],
+     "skills": [
+      112,
+      112,
+      112,
+      111,
+      111,
+      111,
+      111
+     ],
+     "likes": 1900,
+     "name": "Deep",
+     "updated": "2026-09-06T01:07:26-04:00",
+     "notable": null,
+     "shot": "shots/player-Deep.jpg",
+     "pre_reset": false
+    },
+    "Rhaego": {
+     "player_id": "700341201842",
+     "nexus": 34,
+     "server": 12,
+     "power": 2740000,
+     "class_level": 112,
+     "cls": "Berserker",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Endlless Romance",
+     "stats": {
+      "ATK": 194000,
+      "DEF": 151000,
+      "HP": 889000,
+      "SPD": 168000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      100
+     ],
+     "skills": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      101
+     ],
+     "likes": 1800,
+     "name": "Rhaego",
+     "updated": "2026-09-05T03:59:07-04:00",
+     "notable": null,
+     "shot": "shots/player-Rhaego.jpg",
+     "pre_reset": false
+    },
+    "Aiziana": {
+     "player_id": "700341201522",
+     "nexus": 34,
+     "server": 12,
+     "power": 2700000,
+     "class_level": 103,
+     "cls": "Berserker",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 189000,
+      "DEF": 133000,
+      "HP": 787000,
+      "SPD": 149000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      106,
+      105
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      114,
+      114,
+      114
+     ],
+     "likes": 1150,
+     "name": "Aiziana",
+     "updated": "2026-09-05T00:27:39-04:00",
+     "notable": null,
+     "shot": "shots/player-Aiziana.jpg",
+     "pre_reset": false
+    },
+    "Aquax": {
+     "player_id": "700341201238",
+     "nexus": 34,
+     "server": 12,
+     "power": 2590000,
+     "class_level": 91,
+     "cls": "Arcanist",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 155000,
+      "DEF": 163000,
+      "HP": 885000,
+      "SPD": 147000
+     },
+     "equip": [
+      116,
+      115,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      111,
+      111,
+      111,
+      111
+     ],
+     "likes": 855,
+     "name": "Aquax",
+     "updated": "2026-09-06T23:41:14-04:00",
+     "notable": null,
+     "shot": "shots/player-Aquax.jpg",
+     "pre_reset": false
+    },
+    "HootCat": {
+     "player_id": "700341202355",
+     "nexus": 34,
+     "server": 12,
+     "power": 2510000,
+     "class_level": 95,
+     "cls": "Arcanist",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Endlless Romance",
+     "stats": {
+      "ATK": 193000,
+      "DEF": 139000,
+      "HP": 877000,
+      "SPD": 121000
+     },
+     "equip": [
+      130,
+      130,
+      127,
+      125,
+      125
+     ],
+     "skills": [
+      117,
+      117,
+      117,
+      117,
+      117,
+      117,
+      116,
+      116
+     ],
+     "likes": 563,
+     "name": "HootCat",
+     "updated": "2026-09-09T05:17:53-04:00",
+     "notable": null,
+     "shot": "shots/player-HootCat.jpg",
+     "pre_reset": false
+    },
+    "GoldieLocks": {
+     "player_id": "700341201322",
+     "nexus": 34,
+     "server": 12,
+     "power": 2390000,
+     "class_level": 90,
+     "cls": "Paladin",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Endlless Romance",
+     "stats": {
+      "ATK": 157000,
+      "DEF": 169000,
+      "HP": 784000,
+      "SPD": 121000
+     },
+     "equip": [
+      120,
+      120,
+      118,
+      115
+     ],
+     "skills": [
+      103,
+      103,
+      103,
+      103,
+      103,
+      103
+     ],
+     "likes": 442,
+     "name": "GoldieLocks",
+     "updated": "2026-09-08T18:40:40-04:00",
+     "notable": null,
+     "shot": "shots/player-GoldieLocks.jpg",
+     "pre_reset": false
+    },
+    "Fabiek": {
+     "player_id": "700341204418",
+     "nexus": 34,
+     "server": 12,
+     "power": 2330000,
+     "class_level": 110,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endlless Romance",
+     "stats": {
+      "ATK": 134000,
+      "DEF": 108000,
+      "HP": 657000,
+      "SPD": 142000
+     },
+     "equip": [
+      115,
+      114,
+      112,
+      110
+     ],
+     "skills": [
+      102,
+      102,
+      102,
+      102,
+      101,
+      101,
+      101
+     ],
+     "likes": 549,
+     "name": "Fabiek",
+     "updated": "2026-09-06T01:07:18-04:00",
+     "notable": null,
+     "shot": "shots/player-Fabiek.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Wizards": {
+   "name": "Wizards",
+   "guild_id": "700340800035",
+   "nexus": 34,
+   "server": 8,
+   "leader": "ElusivePapa",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 153000000,
+   "activeness": 398000,
+   "slogan": "Mature,friendly,progressive guild.We focus on power, activity,and maintaining a good atmosphere.PMif you need a space made",
+   "updated": "2026-09-09T02:48:54-04:00",
+   "shot": "shots/guild-Wizards.jpg",
+   "players": {
+    "Crushnik": {
+     "player_id": "700340801729",
+     "nexus": 34,
+     "server": 8,
+     "power": 2510000,
+     "class_level": 96,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 181000,
+      "DEF": 135000,
+      "HP": 765000,
+      "SPD": 128000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      107,
+      107,
+      107,
+      107,
+      107,
+      107,
+      107,
+      106
+     ],
+     "likes": 607,
+     "name": "Crushnik",
+     "updated": "2026-09-08T02:08:12-04:00",
+     "notable": null,
+     "shot": "shots/player-Crushnik.jpg",
+     "pre_reset": false
+    },
+    "T_T": {
+     "player_id": "700340804577",
+     "nexus": 34,
+     "server": 8,
+     "power": 2430000,
+     "class_level": 92,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 232000,
+      "DEF": 107000,
+      "HP": 593000,
+      "SPD": 180000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      95,
+      93
+     ],
+     "skills": [
+      94,
+      93,
+      93,
+      93,
+      93,
+      93,
+      93,
+      93
+     ],
+     "likes": 1070,
+     "name": "T_T",
+     "updated": "2026-09-05T02:43:50-04:00",
+     "notable": null,
+     "shot": "shots/player-T_T.jpg",
+     "pre_reset": false
+    },
+    "MatCro": {
+     "player_id": "700340801813",
+     "nexus": 34,
+     "server": 8,
+     "power": 2410000,
+     "class_level": 106,
+     "cls": "Berserker",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 143000,
+      "DEF": 134000,
+      "HP": 686000,
+      "SPD": 118000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      109
+     ],
+     "skills": [
+      112,
+      112,
+      112,
+      112,
+      111,
+      111
+     ],
+     "likes": 427,
+     "name": "MatCro",
+     "updated": "2026-09-09T03:17:52-04:00",
+     "notable": null,
+     "shot": "shots/player-MatCro.jpg",
+     "pre_reset": false
+    },
+    "XueviJyn": {
+     "player_id": "700340802666",
+     "nexus": 34,
+     "server": 8,
+     "power": 2330000,
+     "class_level": 100,
+     "cls": "Arcanist",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 134000,
+      "DEF": 129000,
+      "HP": 855000,
+      "SPD": 103000
+     },
+     "equip": [
+      105,
+      104,
+      100,
+      100,
+      100
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      109,
+      109,
+      109,
+      109
+     ],
+     "likes": 643,
+     "name": "XueviJyn",
+     "updated": "2026-09-08T02:43:40-04:00",
+     "notable": null,
+     "shot": "shots/player-XueviJyn.jpg",
+     "pre_reset": false
+    },
+    "Johnnycst": {
+     "player_id": "700340802248",
+     "nexus": 34,
+     "server": 8,
+     "power": 2320000,
+     "class_level": 92,
+     "cls": "Arcanist",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 163000,
+      "DEF": 132000,
+      "HP": 836000,
+      "SPD": 125000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      112,
+      112,
+      112,
+      112,
+      111,
+      111,
+      111
+     ],
+     "likes": 559,
+     "name": "Johnnycst",
+     "updated": "2026-09-07T21:17:21-04:00",
+     "notable": null,
+     "shot": "shots/player-Johnnycst.jpg",
+     "pre_reset": false
+    },
+    "DeathBlades": {
+     "player_id": "700340805192",
+     "nexus": 34,
+     "server": 8,
+     "class_level": 84,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 158000,
+      "DEF": 120000,
+      "HP": 704000,
+      "SPD": 104000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      104,
+      100
+     ],
+     "skills": [
+      103,
+      103,
+      103,
+      102,
+      102,
+      102,
+      102
+     ],
+     "likes": 518,
+     "name": "DeathBlades",
+     "updated": "2026-09-07T23:44:22-04:00",
+     "notable": null,
+     "shot": "shots/player-DeathBlades.jpg",
+     "power": 2320000,
+     "pre_reset": false
+    },
+    "CoolDude": {
+     "player_id": "700340804223",
+     "nexus": 34,
+     "server": 8,
+     "power": 2260000,
+     "class_level": 99,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 165000,
+      "DEF": 108000,
+      "HP": 653000,
+      "SPD": 110000
+     },
+     "equip": [
+      110,
+      107,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      114
+     ],
+     "likes": 544,
+     "name": "CoolDude",
+     "updated": "2026-09-07T14:52:49-04:00",
+     "notable": null,
+     "shot": "shots/player-CoolDude.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "GODS": {
+   "name": "GODS",
+   "guild_id": "700341000001",
+   "nexus": 34,
+   "server": 10,
+   "leader": "Odyne",
+   "members": [
+    54,
+    56
+   ],
+   "total_power": 143000000,
+   "activeness": 336000,
+   "slogan": "Looking for friendly active people please do3 donations and 2 conquests daily besides that have fun pm if you have questions",
+   "updated": "2026-09-08T16:39:05-04:00",
+   "shot": "shots/guild-GODS.jpg",
+   "players": {
+    "Habagat": {
+     "player_id": "700341001240",
+     "nexus": 34,
+     "server": 10,
+     "power": 3600000,
+     "class_level": 112,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 328000,
+      "DEF": 254000,
+      "HP": 868000,
+      "SPD": 281000
+     },
+     "equip": [
+      130,
+      127,
+      126,
+      126
+     ],
+     "skills": [
+      111,
+      111,
+      111,
+      111,
+      111,
+      110,
+      110,
+      110
+     ],
+     "likes": 1120,
+     "name": "Habagat",
+     "updated": "2026-09-08T23:51:10-04:00",
+     "notable": null,
+     "shot": "shots/player-Habagat.jpg",
+     "pre_reset": false
+    },
+    "Aquamarine": {
+     "player_id": "700341000847",
+     "nexus": 34,
+     "server": 10,
+     "power": 3370000,
+     "class_level": 100,
+     "cls": "Archmage",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 286000,
+      "DEF": 175000,
+      "HP": 789000,
+      "SPD": 227000
+     },
+     "equip": [
+      123,
+      112,
+      109,
+      107,
+      105
+     ],
+     "skills": [
+      109,
+      109,
+      108,
+      108,
+      108,
+      108,
+      108
+     ],
+     "likes": 1010,
+     "name": "Aquamarine",
+     "updated": "2026-09-09T01:30:42-04:00",
+     "notable": null,
+     "shot": "shots/player-Aquamarine.jpg",
+     "pre_reset": false
+    },
+    "purplegarlic": {
+     "player_id": "700341001511",
+     "nexus": 34,
+     "server": 10,
+     "power": 2710000,
+     "class_level": 101,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 185000,
+      "DEF": 133000,
+      "HP": 1060000,
+      "SPD": 131000
+     },
+     "equip": [
+      101,
+      100,
+      100,
+      100,
+      100
+     ],
+     "skills": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      101,
+      101
+     ],
+     "likes": 594,
+     "name": "purplegarlic",
+     "updated": "2026-09-07T21:17:16-04:00",
+     "notable": null,
+     "shot": "shots/player-purplegarlic.jpg",
+     "pre_reset": false
+    },
+    "xiGhostv1": {
+     "player_id": "700341004848",
+     "nexus": 34,
+     "server": 10,
+     "power": 2710000,
+     "class_level": 90,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 229000,
+      "DEF": 157000,
+      "HP": 631000,
+      "SPD": 132000
+     },
+     "equip": [
+      110,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      104,
+      104,
+      104,
+      103,
+      103,
+      103
+     ],
+     "likes": 762,
+     "name": "xiGhostv1",
+     "updated": "2026-09-08T19:06:29-04:00",
+     "notable": null,
+     "shot": "shots/player-xiGhostv1.jpg",
+     "pre_reset": false
+    },
+    "ArcLight": {
+     "player_id": "700341000885",
+     "nexus": 34,
+     "server": 10,
+     "power": 2640000,
+     "class_level": 94,
+     "cls": "Berserker",
+     "level": 112,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 208000,
+      "DEF": 125000,
+      "HP": 598000,
+      "SPD": 141000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      100
+     ],
+     "skills": [
+      105,
+      105,
+      105,
+      105,
+      105,
+      105,
+      105,
+      104
+     ],
+     "likes": 318,
+     "name": "ArcLight",
+     "updated": "2026-09-09T01:18:04-04:00",
+     "notable": null,
+     "shot": "shots/player-ArcLight.jpg",
+     "pre_reset": false
+    },
+    "byproduct": {
+     "player_id": "700341000638",
+     "nexus": 34,
+     "server": 10,
+     "power": 2510000,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 178000,
+      "DEF": 144000,
+      "HP": 706000,
+      "SPD": 100000
+     },
+     "equip": [
+      120,
+      116,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      110,
+      109,
+      109,
+      109,
+      109,
+      109
+     ],
+     "likes": 1010,
+     "name": "byproduct",
+     "updated": "2026-09-07T21:54:30-04:00",
+     "notable": null,
+     "shot": "shots/player-byproduct.jpg",
+     "pre_reset": false
+    },
+    "GrayKev": {
+     "player_id": "700341003321",
+     "nexus": 34,
+     "server": 10,
+     "power": 2480000,
+     "class_level": 101,
+     "cls": "Paladin",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 150000,
+      "DEF": 170000,
+      "HP": 743000,
+      "SPD": 110000
+     },
+     "equip": [
+      105,
+      100,
+      100,
+      100,
+      100
+     ],
+     "skills": [
+      105,
+      104,
+      104,
+      104,
+      104,
+      104,
+      104,
+      104
+     ],
+     "likes": 700,
+     "name": "GrayKev",
+     "updated": "2026-09-07T14:36:00-04:00",
+     "notable": null,
+     "shot": "shots/player-GrayKev.jpg",
+     "pre_reset": false
+    },
+    "puddu": {
+     "player_id": "700341004895",
+     "nexus": 34,
+     "server": 10,
+     "power": 2450000,
+     "class_level": 90,
+     "cls": "Archmage",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 167000,
+      "DEF": 133000,
+      "HP": 836000,
+      "SPD": 138000
+     },
+     "equip": [
+      110,
+      110,
+      106,
+      105,
+      105
+     ],
+     "skills": [
+      109,
+      109,
+      108,
+      108,
+      108,
+      108,
+      108
+     ],
+     "likes": 575,
+     "name": "puddu",
+     "updated": "2026-09-07T18:06:04-04:00",
+     "notable": null,
+     "shot": "shots/player-puddu.jpg",
+     "pre_reset": false
+    },
+    "PBrez": {
+     "player_id": "700341002615",
+     "nexus": 34,
+     "server": 10,
+     "class_level": 92,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 176000,
+      "DEF": 168000,
+      "HP": 679000,
+      "SPD": 123000
+     },
+     "equip": [
+      124,
+      120,
+      120,
+      120,
+      120
+     ],
+     "skills": [
+      113,
+      112,
+      112,
+      112,
+      112,
+      112,
+      112
+     ],
+     "likes": 1430,
+     "name": "PBrez",
+     "updated": "2026-09-08T23:02:27-04:00",
+     "notable": null,
+     "shot": "shots/player-PBrez.jpg",
+     "power": 2420000,
+     "pre_reset": false
+    },
+    "Thriskit": {
+     "player_id": "700341003182",
+     "nexus": 34,
+     "server": 10,
+     "power": 2390000,
+     "class_level": 114,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 166000,
+      "DEF": 129000,
+      "HP": 788000,
+      "SPD": 108000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      106,
+      105
+     ],
+     "skills": [
+      113,
+      113,
+      113,
+      113
+     ],
+     "likes": 353,
+     "name": "Thriskit",
+     "updated": "2026-09-06T03:03:28-04:00",
+     "notable": null,
+     "shot": "shots/player-Thriskit.jpg",
+     "pre_reset": false
+    },
+    "Nocturn": {
+     "player_id": "700341003402",
+     "nexus": 34,
+     "server": 10,
+     "power": 2250000,
+     "class_level": 94,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 126000,
+      "DEF": 126000,
+      "HP": 610000,
+      "SPD": 113000
+     },
+     "equip": [
+      105,
+      103,
+      103,
+      100,
+      100
+     ],
+     "skills": [
+      105,
+      105,
+      105,
+      104,
+      104,
+      104,
+      104,
+      104
+     ],
+     "likes": 574,
+     "name": "Nocturn",
+     "updated": "2026-09-07T23:21:03-04:00",
+     "notable": null,
+     "shot": "shots/player-Nocturn.jpg",
+     "pre_reset": false
+    },
+    "fearles": {
+     "player_id": "700341000569",
+     "nexus": 34,
+     "server": 10,
+     "power": 2250000,
+     "class_level": 112,
+     "cls": "Berserker",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 124000,
+      "DEF": 110000,
+      "HP": 740000,
+      "SPD": 130000
+     },
+     "equip": [
+      114,
+      112,
+      110,
+      110
+     ],
+     "skills": [
+      106,
+      105,
+      105,
+      105,
+      105,
+      105
+     ],
+     "likes": 485,
+     "name": "fearles",
+     "updated": "2026-09-08T16:39:05-04:00",
+     "notable": null,
+     "shot": "shots/player-fearles.jpg",
+     "pre_reset": false
+    },
+    "Lien": {
+     "player_id": "700341002852",
+     "nexus": 34,
+     "server": 10,
+     "power": 2250000,
+     "class_level": 100,
+     "cls": "Berserker",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 140000,
+      "DEF": 136000,
+      "HP": 671000,
+      "SPD": 114000
+     },
+     "equip": [
+      109,
+      105,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      107,
+      107,
+      107,
+      107,
+      107,
+      107,
+      107,
+      107
+     ],
+     "likes": 388,
+     "name": "Lien",
+     "updated": "2026-09-08T18:40:49-04:00",
+     "notable": null,
+     "shot": "shots/player-Lien.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "VooDoo_Rangers": {
+   "name": "VooDoo_Rangers",
+   "guild_id": "700340700096",
+   "nexus": 34,
+   "server": 7,
+   "leader": "New_Yorker",
+   "members": [
+    53,
+    56
+   ],
+   "total_power": 139000000,
+   "activeness": 344000,
+   "slogan": "Unwinding is the mortal coil that drive the gears to tick and toil, until atlast it lay unwound and we lie silent on the ground.",
+   "updated": "2026-09-09T04:08:01-04:00",
+   "shot": "shots/guild-VooDoo_Rangers.jpg",
+   "players": {
+    "Hoss83": {
+     "player_id": "700340704775",
+     "nexus": 34,
+     "server": 7,
+     "power": 3580000,
+     "class_level": 116,
+     "cls": "Paladin",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Cicada Bloom",
+     "stats": {
+      "ATK": 227000,
+      "DEF": 323000,
+      "HP": 853000,
+      "SPD": 195000
+     },
+     "equip": [
+      120,
+      120,
+      120,
+      116,
+      115
+     ],
+     "skills": [
+      115,
+      115,
+      115,
+      115,
+      115,
+      115,
+      115
+     ],
+     "likes": 2090,
+     "name": "Hoss83",
+     "updated": "2026-09-09T18:48:31-04:00",
+     "notable": null,
+     "shot": "shots/player-Hoss83.jpg",
+     "pre_reset": false
+    },
+    "Gokul": {
+     "player_id": "700340702255",
+     "nexus": 34,
+     "server": 7,
+     "power": 2650000,
+     "class_level": 94,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "CicadaBloom",
+     "stats": {
+      "ATK": 160000,
+      "DEF": 129000,
+      "HP": 781000,
+      "SPD": 159000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      105,
+      104
+     ],
+     "skills": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      99
+     ],
+     "likes": 765,
+     "name": "Gokul",
+     "updated": "2026-09-09T04:08:01-04:00",
+     "notable": null,
+     "shot": "shots/player-Gokul.jpg",
+     "pre_reset": false
+    },
+    "Leonis": {
+     "player_id": "700340701269",
+     "nexus": 34,
+     "server": 7,
+     "power": 2570000,
+     "class_level": 94,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Cicada Bloom",
+     "stats": {
+      "ATK": 237000,
+      "DEF": 128000,
+      "HP": 631000,
+      "SPD": 144000
+     },
+     "equip": [
+      120,
+      120,
+      120,
+      115,
+      115
+     ],
+     "skills": [
+      111,
+      111,
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 675,
+     "name": "Leonis",
+     "updated": "2026-09-07T18:20:44-04:00",
+     "notable": null,
+     "shot": "shots/player-Leonis.jpg",
+     "pre_reset": false
+    },
+    "aGaLaM": {
+     "player_id": "700340701619",
+     "nexus": 34,
+     "server": 7,
+     "power": 2550000,
+     "class_level": 94,
+     "cls": "Archmage",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Cicada Bloom",
+     "stats": {
+      "ATK": 184000,
+      "DEF": 164000,
+      "HP": 823000,
+      "SPD": 131000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      100
+     ],
+     "skills": [
+      105,
+      105,
+      105,
+      105,
+      105,
+      104,
+      104
+     ],
+     "likes": 668,
+     "name": "aGaLaM",
+     "updated": "2026-09-09T06:07:12-04:00",
+     "notable": null,
+     "shot": "shots/player-aGaLaM.jpg",
+     "pre_reset": false
+    },
+    "Liko": {
+     "player_id": "700340703879",
+     "nexus": 34,
+     "server": 7,
+     "power": 2450000,
+     "class_level": 101,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "CicadaBloom",
+     "stats": {
+      "ATK": 150000,
+      "DEF": 183000,
+      "HP": 757000,
+      "SPD": 122000
+     },
+     "equip": [
+      110,
+      109,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      108,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108,
+      107
+     ],
+     "likes": 584,
+     "name": "Liko",
+     "updated": "2026-09-05T20:39:50-04:00",
+     "notable": null,
+     "shot": "shots/player-Liko.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "FilthyCasuals": {
+   "name": "FilthyCasuals",
+   "guild_id": "700340200014",
+   "nexus": 34,
+   "server": 2,
+   "leader": "Joku",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 139000000,
+   "activeness": 296000,
+   "slogan": "Looking for a chill guild with active members? Why didn't you say so! Come on in and enjoy the casual life us :3",
+   "updated": "2026-09-09T20:54:06-04:00",
+   "shot": "shots/guild-FilthyCasuals.jpg",
+   "players": {
+    "Solary": {
+     "player_id": "700340203453",
+     "nexus": 34,
+     "server": 2,
+     "power": 2690000,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 121,
+     "rank": "Expert II",
+     "title": "Fire in Heart",
+     "stats": {
+      "ATK": 186000,
+      "DEF": 166000,
+      "HP": 750000,
+      "SPD": 143000
+     },
+     "equip": [
+      120,
+      120,
+      118,
+      115,
+      115
+     ],
+     "skills": [
+      111,
+      110,
+      110,
+      110
+     ],
+     "likes": 533,
+     "name": "Solary",
+     "updated": "2026-09-09T04:44:23-04:00",
+     "notable": null,
+     "shot": "shots/player-Solary.jpg",
+     "pre_reset": false
+    },
+    "mob": {
+     "player_id": "700340202825",
+     "nexus": 34,
+     "server": 2,
+     "power": 2600000,
+     "class_level": 98,
+     "cls": "Berserker",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Fire in Heart",
+     "stats": {
+      "ATK": 136000,
+      "DEF": 219000,
+      "HP": 639000,
+      "SPD": 133000
+     },
+     "equip": [
+      108,
+      106,
+      106,
+      106,
+      106
+     ],
+     "skills": [
+      108,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108,
+      107
+     ],
+     "likes": 432,
+     "name": "mob",
+     "updated": "2026-09-09T03:28:58-04:00",
+     "notable": null,
+     "shot": "shots/player-mob.jpg",
+     "pre_reset": false
+    },
+    "Blueberry": {
+     "player_id": "700340201560",
+     "nexus": 34,
+     "server": 2,
+     "power": 2390000,
+     "class_level": 104,
+     "cls": "Archmage",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Fire in Heart",
+     "stats": {
+      "ATK": 172000,
+      "DEF": 136000,
+      "HP": 687000,
+      "SPD": 133000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      99
+     ],
+     "skills": [
+      108,
+      107,
+      107,
+      107,
+      107,
+      107,
+      107
+     ],
+     "likes": 261,
+     "name": "Blueberry",
+     "updated": "2026-09-09T20:54:06-04:00",
+     "notable": null,
+     "shot": "shots/player-Blueberry.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Albion": {
+   "name": "Albion",
+   "guild_id": "700340800011",
+   "nexus": 34,
+   "server": 8,
+   "leader": "GrandDjordan",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 137000000,
+   "activeness": 325000,
+   "slogan": "The leader hasn't written anything yet.",
+   "updated": "2026-09-09T01:00:11-04:00",
+   "shot": "shots/guild-Albion.jpg",
+   "players": {
+    "aHyHax": {
+     "player_id": "700340800333",
+     "nexus": 34,
+     "server": 8,
+     "power": 3850000,
+     "class_level": 107,
+     "cls": "Arcanist",
+     "level": 121,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 270000,
+      "DEF": 226000,
+      "HP": 1410000,
+      "SPD": 291000
+     },
+     "equip": [
+      120,
+      120,
+      120,
+      120,
+      115
+     ],
+     "skills": [
+      121,
+      121,
+      121,
+      121,
+      121,
+      121
+     ],
+     "likes": 2220,
+     "name": "aHyHax",
+     "updated": "2026-09-09T08:30:00-04:00",
+     "notable": null,
+     "shot": "shots/player-aHyHax.jpg",
+     "pre_reset": false
+    },
+    "arlekina": {
+     "player_id": "700340804641",
+     "nexus": 34,
+     "server": 8,
+     "power": 3200000,
+     "class_level": 116,
+     "cls": "Archmage",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 377000,
+      "DEF": 163000,
+      "HP": 785000,
+      "SPD": 134000
+     },
+     "equip": [
+      125,
+      125,
+      121,
+      120,
+      120
+     ],
+     "skills": [
+      113,
+      113,
+      113
+     ],
+     "likes": 3520,
+     "name": "arlekina",
+     "updated": "2026-09-06T08:11:21-04:00",
+     "notable": null,
+     "shot": "shots/player-arlekina.jpg",
+     "pre_reset": false
+    },
+    "Hachi": {
+     "player_id": "700340800601",
+     "nexus": 34,
+     "server": 8,
+     "power": 2430000,
+     "class_level": 88,
+     "cls": "Arcanist",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 155000,
+      "DEF": 115000,
+      "HP": 852000,
+      "SPD": 140000
+     },
+     "equip": [
+      105,
+      105,
+      104,
+      100,
+      100
+     ],
+     "skills": [
+      108,
+      108,
+      107,
+      107,
+      107,
+      107,
+      107,
+      107
+     ],
+     "likes": 492,
+     "name": "Hachi",
+     "updated": "2026-09-09T01:59:11-04:00",
+     "notable": null,
+     "shot": "shots/player-Hachi.jpg",
+     "pre_reset": false
+    },
+    "Chico": {
+     "player_id": "700340802723",
+     "nexus": 34,
+     "server": 8,
+     "power": 2410000,
+     "class_level": 104,
+     "cls": "Berserker",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 133000,
+      "DEF": 158000,
+      "HP": 755000,
+      "SPD": 123000
+     },
+     "equip": [
+      120,
+      119,
+      119,
+      119,
+      119
+     ],
+     "skills": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      99,
+      99
+     ],
+     "likes": 590,
+     "name": "Chico",
+     "updated": "2026-09-09T05:39:47-04:00",
+     "notable": null,
+     "shot": "shots/player-Chico.jpg",
+     "pre_reset": false
+    },
+    "dobby": {
+     "player_id": "700340800150",
+     "nexus": 34,
+     "server": 8,
+     "power": 2370000,
+     "class_level": 110,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 203000,
+      "DEF": 179000,
+      "HP": 672000,
+      "SPD": 103000
+     },
+     "equip": [
+      115,
+      115,
+      114,
+      112,
+      112
+     ],
+     "skills": [
+      111,
+      111,
+      111,
+      111,
+      111,
+      111
+     ],
+     "likes": 617,
+     "name": "dobby",
+     "updated": "2026-09-09T02:10:10-04:00",
+     "notable": null,
+     "shot": "shots/player-dobby.jpg",
+     "pre_reset": false
+    },
+    "Akatsuki": {
+     "player_id": "700340803853",
+     "nexus": 34,
+     "server": 8,
+     "power": 2290000,
+     "class_level": 92,
+     "cls": "Berserker",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 132000,
+      "DEF": 129000,
+      "HP": 609000,
+      "SPD": 114000
+     },
+     "equip": [
+      107,
+      107,
+      107,
+      106
+     ],
+     "skills": [
+      106,
+      106,
+      106,
+      106,
+      106,
+      106,
+      106,
+      105
+     ],
+     "likes": 537,
+     "name": "Akatsuki",
+     "updated": "2026-09-09T01:04:38-04:00",
+     "notable": null,
+     "shot": "shots/player-Akatsuki.jpg",
+     "pre_reset": false
+    },
+    "loffox": {
+     "player_id": "700340804547",
+     "nexus": 34,
+     "server": 8,
+     "power": 2250000,
+     "class_level": 100,
+     "cls": "Berserker",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 135000,
+      "DEF": 131000,
+      "HP": 897000,
+      "SPD": 100000
+     },
+     "equip": [
+      110,
+      105,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      114,
+      114,
+      113,
+      113,
+      113
+     ],
+     "likes": 582,
+     "name": "loffox",
+     "updated": "2026-09-06T08:11:13-04:00",
+     "notable": null,
+     "shot": "shots/player-loffox.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "A3Ka6aH": {
+   "name": "A3Ka6aH",
+   "guild_id": "700341200002",
+   "nexus": 34,
+   "server": 12,
+   "leader": "TropeMWMk",
+   "members": [
+    54,
+    56
+   ],
+   "total_power": 135000000,
+   "activeness": 351000,
+   "slogan": "Jobpo noxanoBaTb.",
+   "updated": "2026-09-09T07:32:27-04:00",
+   "shot": "shots/guild-A3Ka6aH.jpg",
+   "players": {
+    "Adreram": {
+     "player_id": "700341200748",
+     "nexus": 34,
+     "server": 12,
+     "power": 3440000,
+     "class_level": 130,
+     "cls": "Paladin",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 270000,
+      "DEF": 233000,
+      "HP": 916000,
+      "SPD": 154000
+     },
+     "equip": [
+      115,
+      115,
+      115,
+      112,
+      110
+     ],
+     "skills": [
+      112,
+      112,
+      112,
+      112,
+      112,
+      112
+     ],
+     "likes": 889,
+     "name": "Adreram",
+     "updated": "2026-09-05T03:59:15-04:00",
+     "notable": null,
+     "shot": "shots/player-Adreram.jpg",
+     "pre_reset": false
+    },
+    "Arties": {
+     "player_id": "700341204625",
+     "nexus": 34,
+     "server": 12,
+     "power": 2440000,
+     "class_level": 100,
+     "cls": "Archmage",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 172000,
+      "DEF": 152000,
+      "HP": 727000,
+      "SPD": 126000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      105,
+      102
+     ],
+     "skills": [
+      110,
+      110,
+      109,
+      109,
+      109
+     ],
+     "likes": 554,
+     "name": "Arties",
+     "updated": "2026-09-09T07:32:27-04:00",
+     "notable": null,
+     "shot": "shots/player-Arties.jpg",
+     "pre_reset": false
+    },
+    "Karateen": {
+     "player_id": "700341205048",
+     "nexus": 34,
+     "server": 12,
+     "power": 2310000,
+     "class_level": 103,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Endlless Romance",
+     "stats": {
+      "ATK": 196000,
+      "DEF": 133000,
+      "HP": 588000,
+      "SPD": 113000
+     },
+     "equip": [
+      124,
+      115,
+      115,
+      102,
+      100
+     ],
+     "skills": [
+      103,
+      103,
+      103,
+      103,
+      102,
+      102,
+      102
+     ],
+     "likes": 575,
+     "name": "Karateen",
+     "updated": "2026-09-06T02:09:23-04:00",
+     "notable": null,
+     "shot": "shots/player-Karateen.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Nihilistic": {
+   "name": "Nihilistic",
+   "guild_id": "700341500034",
+   "nexus": 34,
+   "server": 15,
+   "leader": "Triplet",
+   "members": [
+    50,
+    56
+   ],
+   "total_power": 135000000,
+   "activeness": 357000,
+   "slogan": "Aiming for number 1!Otherwise come join since we are mostly pretty helpful and chill. Looking for active players.",
+   "updated": "2026-09-07T23:12:21-04:00",
+   "shot": "shots/guild-Nihilistic.jpg",
+   "players": {
+    "Mephisto": {
+     "player_id": "700341500933",
+     "nexus": 34,
+     "server": 15,
+     "power": 3810000,
+     "class_level": 134,
+     "cls": "Berserker",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "LanternRise",
+     "stats": {
+      "ATK": 216000,
+      "DEF": 221000,
+      "HP": 1030000,
+      "SPD": 249000
+     },
+     "equip": [
+      130,
+      130,
+      126,
+      125
+     ],
+     "skills": [
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119
+     ],
+     "likes": 1810,
+     "name": "Mephisto",
+     "updated": "2026-09-07T23:12:21-04:00",
+     "notable": null,
+     "shot": "shots/player-Mephisto.jpg",
+     "pre_reset": false
+    },
+    "Crownmich": {
+     "player_id": "700341501133",
+     "nexus": 34,
+     "server": 15,
+     "power": 2370000,
+     "class_level": 128,
+     "cls": "Berserker",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Lantern Rise",
+     "stats": {
+      "ATK": 167000,
+      "DEF": 127000,
+      "HP": 756000,
+      "SPD": 135000
+     },
+     "equip": [
+      105,
+      105,
+      104,
+      100,
+      100
+     ],
+     "skills": [
+      105,
+      105,
+      105,
+      105,
+      104,
+      104,
+      104,
+      104
+     ],
+     "likes": 1060,
+     "name": "Crownmich",
+     "updated": "2026-09-06T00:13:26-04:00",
+     "notable": null,
+     "shot": "shots/player-Crownmich.jpg",
+     "pre_reset": false
+    },
+    "Leko": {
+     "player_id": "700341505124",
+     "nexus": 34,
+     "server": 15,
+     "power": 2330000,
+     "class_level": 97,
+     "cls": "Berserker",
+     "level": 111,
+     "rank": "Expert II",
+     "title": "Lantern Rise",
+     "stats": {
+      "ATK": 153000,
+      "DEF": 115000,
+      "HP": 565000,
+      "SPD": 153000
+     },
+     "equip": [
+      95,
+      95,
+      93
+     ],
+     "skills": [
+      97,
+      97,
+      97,
+      97,
+      97,
+      97,
+      97,
+      96
+     ],
+     "likes": 436,
+     "name": "Leko",
+     "updated": "2026-09-06T23:40:26-04:00",
+     "notable": null,
+     "shot": "shots/player-Leko.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "ShadowKnights": {
+   "name": "ShadowKnights",
+   "guild_id": "700340200004",
+   "nexus": 34,
+   "server": 2,
+   "leader": "Eelizabeth",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 135000000,
+   "activeness": 333000,
+   "slogan": "Hello everyone, welcome to the guild!! Looking for active players.",
+   "updated": "2026-09-07T21:54:40-04:00",
+   "shot": "shots/guild-ShadowKnights.jpg",
+   "players": {
+    "Rounak": {
+     "player_id": "700340202448",
+     "nexus": 34,
+     "server": 2,
+     "power": 2520000,
+     "class_level": 103,
+     "cls": "Arcanist",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Fire in Heart",
+     "stats": {
+      "ATK": 161000,
+      "DEF": 140000,
+      "HP": 962000,
+      "SPD": 108000
+     },
+     "equip": [
+      110,
+      109,
+      106,
+      106,
+      105
+     ],
+     "skills": [
+      105,
+      105,
+      105,
+      104,
+      104,
+      104,
+      104,
+      104
+     ],
+     "likes": 555,
+     "name": "Rounak",
+     "updated": "2026-09-07T21:54:41-04:00",
+     "notable": null,
+     "shot": "shots/player-Rounak.jpg",
+     "pre_reset": false
+    },
+    "rubyy": {
+     "player_id": "700340200215",
+     "nexus": 34,
+     "server": 2,
+     "power": 2350000,
+     "class_level": 100,
+     "cls": "Archmage",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Fire in Heart",
+     "stats": {
+      "ATK": 178000,
+      "DEF": 118000,
+      "HP": 790000,
+      "SPD": 93500
+     },
+     "equip": [
+      107,
+      104,
+      104,
+      104,
+      100
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 777,
+     "name": "rubyy",
+     "updated": "2026-09-08T06:50:53-04:00",
+     "notable": null,
+     "shot": "shots/player-rubyy.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "F2Players": {
+   "name": "F2Players",
+   "guild_id": "700340800008",
+   "nexus": 34,
+   "server": 8,
+   "leader": "Cotorii",
+   "members": [
+    53,
+    56
+   ],
+   "total_power": 134000000,
+   "activeness": 362000,
+   "slogan": "Casual guild, if you'reaFP,joinup!All active and alt accounts welcome! Please apply or DM if you'd like to join!",
+   "updated": "2026-09-09T02:21:50-04:00",
+   "shot": "shots/guild-F2Players.jpg",
+   "players": {
+    "Craigdizzer": {
+     "player_id": "700340803062",
+     "nexus": 34,
+     "server": 8,
+     "power": 5340000,
+     "class_level": 168,
+     "cls": "Berserker",
+     "level": 121,
+     "rank": "Expert I",
+     "title": "FlickerBlink",
+     "stats": {
+      "ATK": 311000,
+      "DEF": 382000,
+      "HP": 1450000,
+      "SPD": 292000
+     },
+     "equip": [
+      132,
+      132,
+      132,
+      132,
+      132
+     ],
+     "skills": [
+      121,
+      121,
+      121,
+      121,
+      121,
+      121,
+      121
+     ],
+     "likes": 1260,
+     "name": "Craigdizzer",
+     "updated": "2026-09-08T01:09:03-04:00",
+     "notable": "player",
+     "shot": "shots/player-Craigdizzer.jpg",
+     "pre_reset": false
+    },
+    "YakultNeko": {
+     "player_id": "700340804267",
+     "nexus": 34,
+     "server": 8,
+     "power": 3750000,
+     "class_level": 94,
+     "cls": "Arcanist",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 273000,
+      "DEF": 239000,
+      "HP": 1530000,
+      "SPD": 182000
+     },
+     "equip": [
+      125,
+      125,
+      122,
+      120,
+      120
+     ],
+     "skills": [
+      115,
+      115,
+      114,
+      113,
+      112,
+      111,
+      111
+     ],
+     "likes": 2320,
+     "name": "YakultNeko",
+     "updated": "2026-09-08T01:09:08-04:00",
+     "notable": null,
+     "shot": "shots/player-YakultNeko.jpg",
+     "pre_reset": false
+    },
+    "Zstryker": {
+     "player_id": "700340800622",
+     "nexus": 34,
+     "server": 8,
+     "power": 2630000,
+     "class_level": 89,
+     "cls": "Arcanist",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 206000,
+      "DEF": 126000,
+      "HP": 775000,
+      "SPD": 99700
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      107
+     ],
+     "skills": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ],
+     "likes": 664,
+     "name": "Zstryker",
+     "updated": "2026-09-09T03:23:30-04:00",
+     "notable": null,
+     "shot": "shots/player-Zstryker.jpg",
+     "pre_reset": false
+    },
+    "Ta1de": {
+     "player_id": "700340801194",
+     "nexus": 34,
+     "server": 8,
+     "power": 2410000,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 161000,
+      "DEF": 165000,
+      "HP": 788000,
+      "SPD": 132000
+     },
+     "equip": [
+      115,
+      115,
+      112,
+      110,
+      110
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      114,
+      114,
+      114,
+      114
+     ],
+     "likes": 450,
+     "name": "Ta1de",
+     "updated": "2026-09-05T20:56:10-04:00",
+     "notable": null,
+     "shot": "shots/player-Ta1de.jpg",
+     "pre_reset": false
+    },
+    "HNKTO": {
+     "player_id": "700340800654",
+     "nexus": 34,
+     "server": 8,
+     "power": 2350000,
+     "class_level": 94,
+     "cls": "Arcanist",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 134000,
+      "DEF": 138000,
+      "HP": 792000,
+      "SPD": 139000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      100,
+      95
+     ],
+     "skills": [
+      117,
+      117,
+      117,
+      117,
+      117,
+      117,
+      117,
+      117
+     ],
+     "likes": 697,
+     "name": "HNKTO",
+     "updated": "2026-09-09T02:21:50-04:00",
+     "notable": null,
+     "shot": "shots/player-HNKTO.jpg",
+     "pre_reset": false
+    },
+    "Eyrik": {
+     "player_id": "700340803627",
+     "nexus": 34,
+     "server": 8,
+     "power": 2330000,
+     "class_level": 82,
+     "cls": "Arcanist",
+     "level": 116,
+     "rank": "Expert II",
+     "title": "FlickerBlink",
+     "stats": {
+      "ATK": 151000,
+      "DEF": 148000,
+      "HP": 862000,
+      "SPD": 101000
+     },
+     "equip": [
+      114,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      106,
+      106,
+      106,
+      106,
+      106,
+      106,
+      105,
+      105
+     ],
+     "likes": 830,
+     "name": "Eyrik",
+     "updated": "2026-09-06T07:21:00-04:00",
+     "notable": null,
+     "shot": "shots/player-Eyrik.jpg",
+     "pre_reset": false
+    },
+    "Lluna": {
+     "player_id": "700340804667",
+     "nexus": 34,
+     "server": 8,
+     "power": 2280000,
+     "class_level": 106,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 148000,
+      "DEF": 121000,
+      "HP": 630000,
+      "SPD": 120000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      109,
+      105
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      109,
+      109,
+      109,
+      109
+     ],
+     "likes": 646,
+     "name": "Lluna",
+     "updated": "2026-09-06T02:29:44-04:00",
+     "notable": null,
+     "shot": "shots/player-Lluna.jpg",
+     "pre_reset": false
+    },
+    "SONNJK": {
+     "player_id": "700340803777",
+     "nexus": 34,
+     "server": 8,
+     "class_level": 92,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Flicker Blink",
+     "stats": {
+      "ATK": 156000,
+      "DEF": 128000,
+      "HP": 877000,
+      "SPD": 120000
+     },
+     "equip": [
+      110,
+      108,
+      105,
+      105,
+      104
+     ],
+     "skills": [
+      111,
+      111,
+      111,
+      111
+     ],
+     "likes": 484,
+     "name": "SONNJK",
+     "updated": "2026-09-06T06:57:29-04:00",
+     "notable": null,
+     "shot": "shots/player-SONNJK.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Lumoria": {
+   "name": "Lumoria",
+   "guild_id": "700340300003",
+   "nexus": 34,
+   "server": 3,
+   "leader": "Grauk-Hav",
+   "members": [
+    53,
+    57
+   ],
+   "total_power": 132000000,
+   "activeness": 385000,
+   "slogan": "Looking for active players, no minimum power! ;) We're sister guild toDivide,you canjoin us until you make thecut! Fr/Eng",
+   "updated": "2026-09-08T23:28:53-04:00",
+   "shot": "shots/guild-Lumoria.jpg",
+   "players": {
+    "Deathmatcher": {
+     "player_id": "700340301701",
+     "nexus": 34,
+     "server": 3,
+     "power": 3920000,
+     "class_level": 111,
+     "cls": "Berserker",
+     "level": 119,
+     "rank": "Expert II",
+     "title": "Whirling Leaves",
+     "stats": {
+      "ATK": 250000,
+      "DEF": 188000,
+      "HP": 1520000,
+      "SPD": 238000
+     },
+     "equip": [
+      121,
+      120,
+      120,
+      115,
+      110
+     ],
+     "skills": [
+      118,
+      118,
+      118,
+      117,
+      117,
+      117,
+      117,
+      117
+     ],
+     "likes": 773,
+     "name": "Deathmatcher",
+     "updated": "2026-09-06T08:43:09-04:00",
+     "notable": null,
+     "shot": "shots/player-Deathmatcher.jpg",
+     "pre_reset": false
+    },
+    "tiny": {
+     "player_id": "700340300308",
+     "nexus": 34,
+     "server": 3,
+     "power": 3020000,
+     "class_level": 97,
+     "cls": "Archmage",
+     "level": 121,
+     "rank": "Expert II",
+     "title": "Whirling Leaves",
+     "stats": {
+      "ATK": 264000,
+      "DEF": 176000,
+      "HP": 903000,
+      "SPD": 168000
+     },
+     "equip": [
+      120,
+      120,
+      120,
+      120
+     ],
+     "skills": [
+      120,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119,
+      119
+     ],
+     "likes": 902,
+     "name": "tiny",
+     "updated": "2026-09-08T23:28:53-04:00",
+     "notable": null,
+     "shot": "shots/player-tiny.jpg",
+     "pre_reset": false
+    },
+    "Owain": {
+     "player_id": "700340303816",
+     "nexus": 34,
+     "server": 3,
+     "power": 2550000,
+     "class_level": 124,
+     "cls": "Paladin",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Whirling Leaves",
+     "stats": {
+      "ATK": 161000,
+      "DEF": 179000,
+      "HP": 698000,
+      "SPD": 115000
+     },
+     "equip": [
+      120,
+      110,
+      110,
+      109,
+      105
+     ],
+     "skills": [
+      109,
+      109,
+      108,
+      108,
+      108,
+      108
+     ],
+     "likes": 470,
+     "name": "Owain",
+     "updated": "2026-09-07T21:32:03-04:00",
+     "notable": null,
+     "shot": "shots/player-Owain.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "FAFO": {
+   "name": "FAFO",
+   "guild_id": "700341100004",
+   "nexus": 34,
+   "server": 11,
+   "leader": "Coltonx",
+   "members": [
+    54,
+    55
+   ],
+   "total_power": 131000000,
+   "activeness": 318000,
+   "slogan": "Just a casual guild, come hang out,chat,and learn how to playtogether",
+   "updated": "2026-09-08T22:32:45-04:00",
+   "shot": null,
+   "players": {
+    "ColtonX": {
+     "player_id": "700341100097",
+     "nexus": 34,
+     "server": 11,
+     "power": 5010000,
+     "class_level": 170,
+     "cls": "Archmage",
+     "level": 121,
+     "rank": "Expert II",
+     "title": "Auspice Beasts",
+     "stats": {
+      "ATK": 403000,
+      "DEF": 265000,
+      "HP": 1200000,
+      "SPD": 258000
+     },
+     "equip": [
+      135,
+      135,
+      133,
+      130,
+      130
+     ],
+     "skills": [
+      119,
+      119,
+      119,
+      119
+     ],
+     "likes": 4390,
+     "name": "ColtonX",
+     "updated": "2026-09-08T04:43:36-04:00",
+     "notable": "player",
+     "shot": "shots/player-ColtonX.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "SQUADRON8": {
+   "name": "SQUADRON8",
+   "guild_id": "700341300011",
+   "nexus": 34,
+   "server": 13,
+   "leader": "Ignacio",
+   "members": [
+    56,
+    56
+   ],
+   "total_power": 129000000,
+   "activeness": 341000,
+   "slogan": "THIS IS SQUAD8. WE DONT FK AROUND..",
+   "updated": "2026-09-08T17:50:39-04:00",
+   "shot": "shots/guild-SQUADRON8.jpg",
+   "players": {
+    "Liebe": {
+     "player_id": "700341301080",
+     "nexus": 34,
+     "server": 13,
+     "power": 2300000,
+     "class_level": 91,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "Formless Waters",
+     "stats": {
+      "ATK": 181000,
+      "DEF": 141000,
+      "HP": 593000,
+      "SPD": 116000
+     },
+     "equip": [
+      111,
+      111,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      107,
+      107,
+      106,
+      106,
+      106,
+      106,
+      106,
+      106
+     ],
+     "likes": 697,
+     "name": "Liebe",
+     "updated": "2026-09-05T21:06:48-04:00",
+     "notable": null,
+     "shot": "shots/player-Liebe.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "BlackKnights": {
+   "name": "BlackKnights",
+   "guild_id": "700341600003",
+   "nexus": 34,
+   "server": 16,
+   "leader": "Senzo",
+   "members": [
+    50,
+    56
+   ],
+   "total_power": 129000000,
+   "activeness": 374000,
+   "slogan": "Join the experienced knights of freedom. Where all are welcome casuals and whales alike.",
+   "updated": "2026-09-09T03:39:27-04:00",
+   "shot": "shots/guild-BlackKnights.jpg",
+   "players": {
+    "Cookii": {
+     "player_id": "700341600046",
+     "nexus": 34,
+     "server": 16,
+     "power": 2690000,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 172000,
+      "DEF": 223000,
+      "HP": 706000,
+      "SPD": 105000
+     },
+     "equip": [
+      115,
+      115,
+      115,
+      115,
+      110
+     ],
+     "skills": [
+      108,
+      108,
+      108,
+      108,
+      107,
+      107
+     ],
+     "likes": 637,
+     "name": "Cookii",
+     "updated": "2026-09-06T01:54:31-04:00",
+     "notable": null,
+     "shot": "shots/player-Cookii.jpg",
+     "pre_reset": false
+    },
+    "Darzito": {
+     "player_id": "700341600698",
+     "nexus": 34,
+     "server": 16,
+     "power": 2360000,
+     "class_level": 83,
+     "cls": "Paladin",
+     "level": 113,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 154000,
+      "DEF": 175000,
+      "HP": 872000,
+      "SPD": 105000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      108
+     ],
+     "skills": [
+      104,
+      104,
+      104,
+      104,
+      103,
+      103,
+      103,
+      103
+     ],
+     "likes": 752,
+     "name": "Darzito",
+     "updated": "2026-09-06T05:47:39-04:00",
+     "notable": null,
+     "shot": "shots/player-Darzito.jpg",
+     "pre_reset": false
+    },
+    "Kagome": {
+     "player_id": "700341605197",
+     "nexus": 34,
+     "server": 16,
+     "class_level": 90,
+     "cls": "Paladin",
+     "level": 112,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 154000,
+      "DEF": 180000,
+      "HP": 820000,
+      "SPD": 86700
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      105,
+      100
+     ],
+     "skills": [
+      106,
+      106,
+      106,
+      106,
+      106,
+      106,
+      105,
+      105
+     ],
+     "likes": 1150,
+     "name": "Kagome",
+     "updated": "2026-09-06T23:26:45-04:00",
+     "notable": null,
+     "shot": "shots/player-Kagome.jpg",
+     "power": 2280000,
+     "pre_reset": false
+    },
+    "Reminori": {
+     "player_id": "700341605095",
+     "nexus": 34,
+     "server": 16,
+     "class_level": 93,
+     "cls": "Archmage",
+     "level": 112,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 169000,
+      "DEF": 149000,
+      "HP": 681000,
+      "SPD": 123000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      100
+     ],
+     "skills": [
+      100,
+      100,
+      99,
+      99,
+      99,
+      99
+     ],
+     "likes": 927,
+     "name": "Reminori",
+     "updated": "2026-09-06T23:26:58-04:00",
+     "notable": null,
+     "shot": "shots/player-Reminori.jpg",
+     "power": 2270000,
+     "pre_reset": false
+    },
+    "Geir": {
+     "player_id": "700341600203",
+     "nexus": 34,
+     "server": 16,
+     "class_level": 102,
+     "cls": "Berserker",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "InkElegance",
+     "stats": {
+      "ATK": 168000,
+      "DEF": 144000,
+      "HP": 769000,
+      "SPD": 142000
+     },
+     "equip": [
+      120,
+      120,
+      116,
+      115,
+      115
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      113,
+      113
+     ],
+     "likes": 429,
+     "name": "Geir",
+     "updated": "2026-09-06T20:12:48-04:00",
+     "notable": null,
+     "shot": "shots/player-Geir.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Failure": {
+   "name": "Failure",
+   "guild_id": "700340500007",
+   "nexus": 34,
+   "server": 5,
+   "leader": "Necro",
+   "members": [
+    56,
+    56
+   ],
+   "total_power": 129000000,
+   "activeness": 341000,
+   "slogan": "Casual but active guild. Guildmaster, deputies and officers are active. 2d inactivity threshold.",
+   "updated": "2026-09-07T03:32:15-04:00",
+   "shot": "shots/guild-Failure.jpg",
+   "players": {
+    "LordRutgard": {
+     "player_id": "700340501946",
+     "nexus": 34,
+     "server": 5,
+     "power": 2580000,
+     "class_level": 97,
+     "cls": "Paladin",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "ValeEcho",
+     "stats": {
+      "ATK": 172000,
+      "DEF": 188000,
+      "HP": 695000,
+      "SPD": 115000
+     },
+     "equip": [
+      105,
+      105,
+      105,
+      101,
+      100
+     ],
+     "skills": [
+      111,
+      110,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 1020,
+     "name": "LordRutgard",
+     "updated": "2026-09-07T03:32:15-04:00",
+     "notable": null,
+     "shot": "shots/player-LordRutgard.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "ShadowDragons": {
+   "name": "ShadowDragons",
+   "guild_id": "700341200019",
+   "nexus": 34,
+   "server": 12,
+   "leader": "NyxShadow",
+   "members": [
+    55,
+    56
+   ],
+   "total_power": 129000000,
+   "activeness": 373000,
+   "slogan": "Welcome toShadowDragons! Join us and help keep Shadow Dragons alive and online!",
+   "updated": "2026-09-08T23:41:57-04:00",
+   "shot": "shots/guild-ShadowDragons.jpg",
+   "players": {
+    "Beelzebrrr": {
+     "player_id": "700341200508",
+     "nexus": 34,
+     "server": 12,
+     "power": 2400000,
+     "class_level": 90,
+     "cls": "Paladin",
+     "level": 114,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 154000,
+      "DEF": 177000,
+      "HP": 602000,
+      "SPD": 104000
+     },
+     "equip": [
+      110,
+      110,
+      109,
+      106,
+      105
+     ],
+     "skills": [
+      106,
+      106,
+      106,
+      106,
+      105,
+      105,
+      105,
+      105
+     ],
+     "likes": 673,
+     "name": "Beelzebrrr",
+     "updated": "2026-09-06T20:43:20-04:00",
+     "notable": null,
+     "shot": "shots/player-Beelzebrrr.jpg",
+     "pre_reset": false
+    },
+    "Dragonheart": {
+     "player_id": "700341200500",
+     "nexus": 34,
+     "server": 12,
+     "class_level": 89,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 308000,
+      "DEF": 144000,
+      "HP": 728000,
+      "SPD": 125000
+     },
+     "equip": [
+      110,
+      110,
+      110,
+      110,
+      107
+     ],
+     "skills": [
+      101,
+      101,
+      101,
+      101,
+      101,
+      101,
+      101,
+      101
+     ],
+     "likes": 1620,
+     "name": "Dragonheart",
+     "updated": "2026-09-06T20:43:28-04:00",
+     "notable": null,
+     "shot": "shots/player-Dragonheart.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Havoc": {
+   "name": "Havoc",
+   "guild_id": "700340500073",
+   "nexus": 34,
+   "server": 5,
+   "leader": "Uriel",
+   "members": [
+    51,
+    56
+   ],
+   "total_power": 128000000,
+   "activeness": 339000,
+   "slogan": "Why pick a side when you can pick a fight? Havoc:Smarter than a sword,sharper thana staff.Stay active orstay home!",
+   "updated": "2026-09-09T18:54:08-04:00",
+   "shot": "shots/guild-Havoc.jpg",
+   "players": {
+    "grkipo": {
+     "player_id": "700340501915",
+     "nexus": 34,
+     "server": 5,
+     "power": 4310000,
+     "class_level": 147,
+     "cls": "Berserker",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "ValeEcho",
+     "stats": {
+      "ATK": 308000,
+      "DEF": 243000,
+      "HP": 1160000,
+      "SPD": 255000
+     },
+     "equip": [
+      130,
+      129,
+      126,
+      125,
+      125
+     ],
+     "skills": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      119
+     ],
+     "likes": 1590,
+     "name": "grkipo",
+     "updated": "2026-09-05T20:44:17-04:00",
+     "notable": null,
+     "shot": "shots/player-grkipo.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "★TERMINUS·EST★": {
+   "name": "★TERMINUS·EST★",
+   "guild_id": "700341400001",
+   "nexus": 34,
+   "server": 14,
+   "leader": "SONIME",
+   "members": [
+    53,
+    56
+   ],
+   "total_power": 127000000,
+   "activeness": 365000,
+   "slogan": "AKTHBHbi KnaH BBeneT Habop HOBbIX WrpoKOe! OrpaHNueHNi no MOWN HeT Tpe6OBaHMe OAHO-aKTMBHOCTb Mo Bonpocy npueMa SONIME, YOUR",
+   "updated": "2026-09-09T06:18:25-04:00",
+   "shot": "shots/guild-TERMINUS-EST.jpg",
+   "players": {
+    "SimonXolo": {
+     "player_id": "700341400961",
+     "nexus": 34,
+     "server": 14,
+     "power": 2710000,
+     "class_level": 111,
+     "cls": "Arcanist",
+     "level": 113,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 160000,
+      "DEF": 187000,
+      "HP": 885000,
+      "SPD": 133000
+     },
+     "equip": [
+      110,
+      109,
+      105,
+      105,
+      105
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      109,
+      108,
+      108,
+      108
+     ],
+     "likes": 744,
+     "name": "SimonXolo",
+     "updated": "2026-09-06T08:50:43-04:00",
+     "notable": null,
+     "shot": "shots/player-SimonXolo.jpg",
+     "pre_reset": false
+    },
+    "BREWSKY": {
+     "player_id": "700341401583",
+     "nexus": 34,
+     "server": 14,
+     "power": 2360000,
+     "class_level": 94,
+     "cls": "Archmage",
+     "level": 114,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 164000,
+      "DEF": 116000,
+      "HP": 951000,
+      "SPD": 113000
+     },
+     "equip": [
+      115,
+      115,
+      115,
+      110,
+      110
+     ],
+     "skills": [
+      114,
+      114,
+      114,
+      114,
+      113,
+      113,
+      113
+     ],
+     "likes": 596,
+     "name": "BREWSKY",
+     "updated": "2026-09-07T17:03:27-04:00",
+     "notable": null,
+     "shot": "shots/player-BREWSKY.jpg",
+     "pre_reset": false
+    },
+    "denderotto": {
+     "player_id": "700341403600",
+     "nexus": 34,
+     "server": 14,
+     "power": 2270000,
+     "class_level": 113,
+     "cls": "Archmage",
+     "level": 112,
+     "rank": "Expert II",
+     "stats": {
+      "ATK": 158000,
+      "DEF": 125000,
+      "HP": 722000,
+      "SPD": 102000
+     },
+     "equip": [
+      100,
+      98,
+      95,
+      95
+     ],
+     "skills": [
+      107,
+      106,
+      106,
+      106,
+      106,
+      106,
+      106,
+      106
+     ],
+     "likes": 523,
+     "name": "denderotto",
+     "updated": "2026-09-06T06:49:48-04:00",
+     "notable": null,
+     "shot": "shots/player-denderotto.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Zalo": {
+   "name": "Zalo",
+   "guild_id": "700340200003",
+   "nexus": 34,
+   "server": 2,
+   "leader": "TLX",
+   "members": [
+    42,
+    56
+   ],
+   "total_power": 119000000,
+   "activeness": 389000,
+   "slogan": "Come and play with us. Looking for members who can online everday.",
+   "updated": "2026-09-08T19:37:50-04:00",
+   "shot": "shots/guild-Zalo.jpg",
+   "players": {
+    "eve": {
+     "player_id": "700340200334",
+     "nexus": 34,
+     "server": 2,
+     "power": 2440000,
+     "class_level": 109,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Fire in Heart",
+     "stats": {
+      "ATK": 140000,
+      "DEF": 140000,
+      "HP": 766000,
+      "SPD": 118000
+     },
+     "equip": [
+      112,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      109,
+      109,
+      108,
+      108,
+      108,
+      108,
+      108,
+      108
+     ],
+     "likes": 642,
+     "name": "eve",
+     "updated": "2026-09-06T02:29:52-04:00",
+     "notable": null,
+     "shot": "shots/player-eve.jpg",
+     "pre_reset": false
+    },
+    "Judgestar": {
+     "player_id": "700340200759",
+     "nexus": 34,
+     "server": 2,
+     "class_level": 94,
+     "cls": "Archmage",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Fire in Heart",
+     "stats": {
+      "ATK": 191000,
+      "DEF": 181000,
+      "HP": 668000,
+      "SPD": 101000
+     },
+     "equip": [
+      115,
+      115,
+      111,
+      110,
+      110
+     ],
+     "skills": [
+      109,
+      109,
+      109,
+      109,
+      108,
+      108,
+      108
+     ],
+     "likes": 529,
+     "name": "Judgestar",
+     "updated": "2026-09-06T07:20:56-04:00",
+     "notable": null,
+     "shot": "shots/player-Judgestar.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "PHOENIX": {
+   "name": "PHOENIX",
+   "guild_id": "700340100002",
+   "nexus": 34,
+   "server": 1,
+   "leader": "zkn2f",
+   "members": [
+    53,
+    56
+   ],
+   "total_power": 115000000,
+   "activeness": 323000,
+   "slogan": "Only active players. Inactive members may be removed. Let's become the strongest guild together!",
+   "updated": "2026-09-06T20:55:18-04:00",
+   "shot": "shots/guild-PHOENIX.jpg",
+   "players": {
+    "BinyahBinyah": {
+     "player_id": "700340103308",
+     "nexus": 34,
+     "server": 1,
+     "power": 2530000,
+     "class_level": 91,
+     "cls": "Berserker",
+     "level": 117,
+     "rank": "Expert II",
+     "title": "Rootless Tide",
+     "stats": {
+      "ATK": 180000,
+      "DEF": 142000,
+      "HP": 876000,
+      "SPD": 125000
+     },
+     "equip": [
+      100,
+      100,
+      100,
+      99,
+      99
+     ],
+     "skills": [
+      106,
+      105,
+      105,
+      105,
+      105,
+      105,
+      105,
+      105
+     ],
+     "likes": 397,
+     "name": "BinyahBinyah",
+     "updated": "2026-09-06T21:01:39-04:00",
+     "notable": null,
+     "shot": "shots/player-BinyahBinyah.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Osprey": {
+   "name": "Osprey",
+   "guild_id": "700340600002",
+   "nexus": 34,
+   "server": 6,
+   "leader": "HybridKite",
+   "members": [
+    54,
+    55
+   ],
+   "total_power": 113000000,
+   "activeness": 361000,
+   "slogan": "Recruiting friendly and active players! Let's help each other clear content and get stronger together! Join our discord!",
+   "updated": "2026-09-09T06:00:31-04:00",
+   "shot": null,
+   "players": {
+    "HybridKite": {
+     "player_id": "700340600113",
+     "nexus": 34,
+     "server": 6,
+     "power": 3700000,
+     "class_level": 108,
+     "cls": "Berserker",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 274000,
+      "DEF": 251000,
+      "HP": 890000,
+      "SPD": 194000
+     },
+     "equip": [
+      123,
+      120,
+      120,
+      120,
+      120
+     ],
+     "skills": [
+      112,
+      112,
+      112,
+      112,
+      111,
+      111,
+      111,
+      111
+     ],
+     "likes": 921,
+     "name": "HybridKite",
+     "updated": "2026-09-07T17:11:50-04:00",
+     "notable": null,
+     "shot": "shots/player-HybridKite.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "TheNewbies": {
+   "name": "TheNewbies",
+   "guild_id": "700341000143",
+   "nexus": 34,
+   "server": 10,
+   "leader": "Xela",
+   "members": [
+    51,
+    56
+   ],
+   "total_power": 101000000,
+   "activeness": 222000,
+   "slogan": "For all new and experienced players :) We also have a discord server! https://discord.gg/3G3XakGuV",
+   "updated": "2026-09-09T18:58:16-04:00",
+   "shot": null,
+   "players": {
+    "Loof": {
+     "player_id": "700341003320",
+     "nexus": 34,
+     "server": 10,
+     "power": 3860000,
+     "class_level": 130,
+     "cls": "Berserker",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Global Grace",
+     "stats": {
+      "ATK": 375000,
+      "DEF": 163000,
+      "HP": 992000,
+      "SPD": 244000
+     },
+     "equip": [
+      117,
+      115,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      118,
+      117,
+      117,
+      117,
+      117,
+      117,
+      117,
+      117
+     ],
+     "likes": 1480,
+     "name": "Loof",
+     "updated": "2026-09-09T18:58:16-04:00",
+     "notable": null,
+     "shot": "shots/player-Loof.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "MKONOHAM": {
+   "name": "MKONOHAM",
+   "guild_id": "700341200011",
+   "nexus": 34,
+   "server": 12,
+   "leader": "MKristen",
+   "members": [
+    50,
+    55
+   ],
+   "total_power": 100000000,
+   "activeness": 334000,
+   "slogan": "KONOHA -Guild for everyone!Stay active, and together we'll build our place and reach the top.",
+   "updated": "2026-09-07T13:14:25-04:00",
+   "shot": null,
+   "players": {
+    "BigChongus": {
+     "player_id": "700341200350",
+     "nexus": 34,
+     "server": 12,
+     "power": 4360000,
+     "class_level": 136,
+     "cls": "Archmage",
+     "level": 120,
+     "rank": "Expert II",
+     "title": "Endless Romance",
+     "stats": {
+      "ATK": 266000,
+      "DEF": 222000,
+      "HP": 1780000,
+      "SPD": 243000
+     },
+     "equip": [
+      115,
+      115,
+      115,
+      112,
+      110
+     ],
+     "skills": [
+      115,
+      115,
+      115
+     ],
+     "likes": 5540,
+     "name": "BigChongus",
+     "updated": "2026-09-06T22:34:41-04:00",
+     "notable": null,
+     "shot": "shots/player-BigChongus.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "FangornForest": {
+   "name": "FangornForest",
+   "guild_id": "700340100042",
+   "nexus": 34,
+   "server": 1,
+   "leader": "AriaStella",
+   "members": [
+    47,
+    55
+   ],
+   "total_power": 92900000,
+   "activeness": 248000,
+   "slogan": "When Summer lies upon the world, and in a noon of gold Beneath the roof of sleeping leaves the dreams of trees unfold Welcome",
+   "updated": "2026-09-09T05:39:56-04:00",
+   "shot": null,
+   "players": {
+    "Sarthan": {
+     "player_id": "700340103368",
+     "nexus": 34,
+     "server": 1,
+     "power": 4170000,
+     "class_level": 11,
+     "cls": "Archmage",
+     "level": 121,
+     "rank": "Expert II",
+     "title": "RootlessTide",
+     "stats": {
+      "ATK": 344000,
+      "DEF": 249000,
+      "HP": 1060000,
+      "SPD": 234000
+     },
+     "equip": [
+      120,
+      119,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      112,
+      111,
+      111,
+      111
+     ],
+     "likes": 2120,
+     "name": "Sarthan",
+     "updated": "2026-09-09T05:39:56-04:00",
+     "notable": null,
+     "shot": "shots/player-Sarthan.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "No6ena": {
+   "name": "No6ena",
+   "guild_id": "700340600011",
+   "nexus": 34,
+   "server": 6,
+   "leader": "Ai6onNT",
+   "members": [
+    40,
+    56
+   ],
+   "total_power": 84300000,
+   "activeness": 281000,
+   "slogan": "MpurnaWaeM aKTHBHbIX HrpoKOB.",
+   "updated": "2026-09-07T04:31:57-04:00",
+   "shot": "shots/guild-Nobena.jpg",
+   "players": {
+    "(0_0)": {
+     "player_id": "700340600527",
+     "nexus": 34,
+     "server": 6,
+     "power": 3260000,
+     "class_level": 101,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Gale Shard",
+     "stats": {
+      "ATK": 279000,
+      "DEF": 180000,
+      "HP": 889000,
+      "SPD": 200000
+     },
+     "equip": [
+      117,
+      110,
+      110,
+      110,
+      110
+     ],
+     "skills": [
+      111,
+      111,
+      111,
+      110,
+      110,
+      110,
+      110
+     ],
+     "likes": 855,
+     "name": "(0_0)",
+     "updated": "2026-09-04T22:58:23-04:00",
+     "notable": null,
+     "shot": "shots/player-0_0.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "Eternalis": {
+   "name": "Eternalis",
+   "guild_id": "700340400022",
+   "nexus": 34,
+   "server": 4,
+   "leader": "Exos",
+   "members": [
+    34,
+    56
+   ],
+   "total_power": 79700000,
+   "activeness": 350000,
+   "slogan": "Guilde Francaise! Entraide et push ensemble",
+   "updated": "2026-09-07T04:49:09-04:00",
+   "shot": "shots/guild-Eternalis.jpg",
+   "players": {
+    "Amckhockey": {
+     "player_id": "700340403767",
+     "nexus": 34,
+     "server": 4,
+     "class_level": 91,
+     "cls": "Berserker",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "GoldenSurge",
+     "stats": {
+      "ATK": 145000,
+      "DEF": 179000,
+      "HP": 1070000,
+      "SPD": 134000
+     },
+     "equip": [
+      105,
+      105,
+      101,
+      100,
+      100
+     ],
+     "skills": [
+      110,
+      110,
+      110,
+      110,
+      105,
+      105,
+      105,
+      105
+     ],
+     "likes": 533,
+     "name": "Amckhockey",
+     "updated": "2026-09-05T01:30:32-04:00",
+     "notable": null,
+     "shot": "shots/player-Amckhockey.jpg",
+     "power": 2580000,
+     "pre_reset": false
+    }
+   }
+  },
+  "WinterAurion": {
+   "name": "WinterAurion",
+   "guild_id": "700341100181",
+   "nexus": 34,
+   "server": 11,
+   "leader": "Katherine_Azure",
+   "members": [
+    49,
+    55
+   ],
+   "total_power": 68400000,
+   "activeness": 157000,
+   "slogan": "New and experienced players are welcome! A.B.P! Part of the Biscuit Alliance!",
+   "updated": "2026-09-09T18:53:31-04:00",
+   "shot": null,
+   "players": {
+    "ArfGreytail": {
+     "player_id": "700341105050",
+     "nexus": 34,
+     "server": 11,
+     "power": 4070000,
+     "class_level": 138,
+     "cls": "Berserker",
+     "level": 118,
+     "rank": "Expert II",
+     "title": "Auspice Beasts",
+     "stats": {
+      "ATK": 275000,
+      "DEF": 244000,
+      "HP": 1760000,
+      "SPD": 177000
+     },
+     "equip": [
+      127,
+      115,
+      115,
+      115,
+      115
+     ],
+     "skills": [
+      118,
+      118,
+      118,
+      118,
+      118,
+      118,
+      118
+     ],
+     "likes": 591,
+     "name": "ArfGreytail",
+     "updated": "2026-09-09T18:53:31-04:00",
+     "notable": null,
+     "shot": "shots/player-ArfGreytail.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "BUDDIES": {
+   "name": "BUDDIES",
+   "guild_id": "700340500013",
+   "nexus": 34,
+   "server": 5,
+   "leader": "BUDDY",
+   "members": [
+    33,
+    54
+   ],
+   "total_power": 34200000,
+   "activeness": 151000,
+   "slogan": ":D",
+   "updated": "2026-09-09T00:39:10-04:00",
+   "shot": null,
+   "players": {
+    "rudius": {
+     "player_id": "700340503332",
+     "nexus": 34,
+     "server": 5,
+     "power": 4330000,
+     "class_level": 137,
+     "cls": "Berserker",
+     "level": 122,
+     "rank": "Expert II",
+     "title": "ValeEcho",
+     "stats": {
+      "ATK": 348000,
+      "DEF": 235000,
+      "HP": 1100000,
+      "SPD": 284000
+     },
+     "equip": [
+      125,
+      125,
+      120,
+      120,
+      120
+     ],
+     "skills": [
+      122,
+      122,
+      122,
+      122,
+      122,
+      122
+     ],
+     "likes": 947,
+     "name": "rudius",
+     "updated": "2026-09-09T00:39:10-04:00",
+     "notable": null,
+     "shot": "shots/player-rudius.jpg",
+     "pre_reset": false
+    }
+   }
+  },
+  "SpacePotatoes": {
+   "name": "SpacePotatoes",
+   "guild_id": "700341300007",
+   "nexus": 34,
+   "server": 13,
+   "leader": "Cennet",
+   "members": [
+    45,
+    54
+   ],
+   "total_power": 28300000,
+   "activeness": 119000,
+   "slogan": "Just be chill and have fun",
+   "updated": "2026-09-04T22:32:53-04:00",
+   "shot": "shots/guild-SpacePotatoes.jpg",
+   "players": {
+    "Drannic": {
+     "player_id": "700341300097",
+     "nexus": 34,
+     "server": 13,
+     "power": 3990000,
+     "class_level": 222,
+     "cls": "Paladin",
+     "level": 115,
+     "rank": "Expert II",
+     "title": "Formless Waters",
+     "stats": {
+      "ATK": 240000,
+      "DEF": 232000,
+      "HP": 1180000,
+      "SPD": 162000
+     },
+     "equip": [
+      115,
+      115,
+      115,
+      111
+     ],
+     "skills": [
+      113,
+      113,
+      112,
+      112,
+      112,
+      112,
+      112
+     ],
+     "likes": 448,
+     "name": "Drannic",
+     "updated": "2026-09-04T22:34:12-04:00",
+     "notable": null,
+     "shot": "shots/player-Drannic.jpg",
+     "pre_reset": false
+    }
+   }
+  }
+ },
+ "players": {
+  "Snorlax": {
+   "name": "Snorlax",
+   "power": 7530000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Kaito": {
+   "name": "Kaito",
+   "power": 7380000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "DeeJay83": {
+   "name": "DeeJay83",
+   "power": 7100000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Sighborn": {
+   "name": "Sighborn",
+   "power": 7030000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "PimaCoala": {
+   "name": "PimaCoala",
+   "power": 6990000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Pali": {
+   "name": "Pali",
+   "power": 6930000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Artus": {
+   "name": "Artus",
+   "power": 6690000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Lily": {
+   "name": "Lily",
+   "power": 6670000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Wo?f": {
+   "name": "Wo?f",
+   "power": 6510000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Mizore": {
+   "name": "Mizore",
+   "power": 6220000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Milanor": {
+   "name": "Milanor",
+   "power": 6130000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Frankyo": {
+   "name": "Frankyo",
+   "power": 6020000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Regicide": {
+   "name": "Regicide",
+   "power": 5960000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Solaryn": {
+   "name": "Solaryn",
+   "power": 5950000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Cliptis": {
+   "name": "Cliptis",
+   "power": 5850000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Ventriloquist": {
+   "name": "Ventriloquist",
+   "power": 5830000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Eatsheep": {
+   "name": "Eatsheep",
+   "power": 5790000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "risenfrm": {
+   "name": "risenfrm",
+   "power": 5790000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "raki": {
+   "name": "raki",
+   "power": 5780000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Kos": {
+   "name": "Kos",
+   "power": 5720000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Exvy": {
+   "name": "Exvy",
+   "power": 5690000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "blorto": {
+   "name": "blorto",
+   "power": 5680000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "BenBen": {
+   "name": "BenBen",
+   "power": 5650000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Vandroiy": {
+   "name": "Vandroiy",
+   "power": 5630000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "morga": {
+   "name": "morga",
+   "power": 5620000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "chocopay": {
+   "name": "chocopay",
+   "power": 5580000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Astrios": {
+   "name": "Astrios",
+   "power": 5530000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Дохлер": {
+   "name": "Дохлер",
+   "power": 5480000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "mazikin": {
+   "name": "mazikin",
+   "power": 5480000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Sylvertongue": {
+   "name": "Sylvertongue",
+   "power": 5460000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Sera": {
+   "name": "Sera",
+   "power": 5430000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Milofio": {
+   "name": "Milofio",
+   "power": 5390000,
+   "nexus": 34,
+   "server": 3,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "艾薇琳": {
+   "name": "艾薇琳",
+   "power": 5370000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "FÖX": {
+   "name": "FÖX",
+   "power": 5360000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Ramsa": {
+   "name": "Ramsa",
+   "power": 5360000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Gobrou": {
+   "name": "Gobrou",
+   "power": 5350000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Thomas": {
+   "name": "Thomas",
+   "power": 5310000,
+   "nexus": 34,
+   "server": 4,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Skia": {
+   "name": "Skia",
+   "power": 5270000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Jazzi": {
+   "name": "Jazzi",
+   "power": 5130000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "KiwiMatcha": {
+   "name": "KiwiMatcha",
+   "power": 5120000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Kirpi": {
+   "name": "Kirpi",
+   "power": 5040000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Lugaw": {
+   "name": "Lugaw",
+   "power": 4900000,
+   "nexus": 34,
+   "server": 8,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "影のYARIMAN": {
+   "name": "影のYARIMAN",
+   "power": 4810000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Quarky": {
+   "name": "Quarky",
+   "power": 4750000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Rhadea": {
+   "name": "Rhadea",
+   "power": 4620000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "New_Yorker": {
+   "name": "New_Yorker",
+   "power": 4580000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": "player",
+   "pre_reset": false
+  },
+  "Onezz": {
+   "name": "Onezz",
+   "power": 4500000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  },
+  "Onyxior": {
+   "name": "Onyxior",
+   "power": 4480000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  },
+  "blind": {
+   "name": "blind",
+   "power": 4480000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  },
+  "4ST": {
+   "name": "4ST",
+   "power": 4450000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  },
+  "Yaeshin": {
+   "name": "Yaeshin",
+   "power": 4380000,
+   "nexus": 34,
+   "server": 7,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  },
+  "碧池Bichi": {
+   "name": "碧池Bichi",
+   "power": 4320000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  },
+  "Naruma": {
+   "name": "Naruma",
+   "power": 4310000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  },
+  "Fah": {
+   "name": "Fah",
+   "power": 4260000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  },
+  "Zecilia": {
+   "name": "Zecilia",
+   "power": 4190000,
+   "nexus": 34,
+   "server": 9,
+   "source": "report",
+   "updated": "2026-09-06T00:00:00-04:00",
+   "notable": null,
+   "pre_reset": false
+  }
+ },
+ "reference": {
+  "2026-09-09": {
+   "power": 4640000,
+   "guild_power": 145860997,
+   "members": 54,
+   "benchmarks": {
+    "Bengyn": 7330000,
+    "ShadowX": 7010000
+   },
+   "whale_power": 7170000.0,
+   "mega_power": 7330000
+  },
+  "2026-09-10": {
+   "power": 4640000,
+   "guild_power": 145860997,
+   "members": 54,
+   "benchmarks": {
+    "Bengyn": 7330000,
+    "ShadowX": 7010000
+   },
+   "whale_power": 7170000.0,
+   "mega_power": 7330000
+  },
+  "2026-09-11": {
+   "power": 5400000,
+   "guild_power": 182491000,
+   "members": 59,
+   "benchmarks": {
+    "Bengyn": 7850000,
+    "ShadowX": 7830000
+   },
+   "whale_power": 7840000.0,
+   "mega_power": 7850000
+  },
+  "2026-09-14": {
+   "power": 5560000,
+   "guild_power": 196895000,
+   "members": 59,
+   "benchmarks": {
+    "Bengyn": 8090000,
+    "ShadowX": 8090000
+   },
+   "whale_power": 8090000.0,
+   "mega_power": 8090000
+  },
+  "2026-09-15": {
+   "power": 5670000,
+   "guild_power": 208939000,
+   "members": 59,
+   "benchmarks": {
+    "Bengyn": 8510000,
+    "ShadowX": 8910000
+   },
+   "whale_power": 8710000.0,
+   "mega_power": 8910000
+  }
+ },
+ "resets": []
+}
