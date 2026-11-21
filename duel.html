@@ -503,30 +503,70 @@ window.__sxsPurrBoot = window.__sxsPurrBooter(document.getElementById("purr-fram
   }
   const pets = () => api.pets();
   const petName = (id) => (pets().find((p) => p.id === id) || {}).name || "Fantomon " + id;
+
+  // A Fantomon skill has no stars. pet_skill_rank.csv is seven flat ranks -
+  // None, Blue, Purple, Orange, Gold, Red, Rainbow - with RankAddition 0 on
+  // every one, so "Legendary +2" was never something the game could show.
+  // In play they run Legendary to Immortal, which is what the card shows.
+  const PET_QUALS = [[6, "Legendary"], [10, "Mythic"], [16, "Divine"], [24, "Immortal"]];
+  // Every Adulthood row of pet_evolution.csv asks for EvolutionLevel 100 and
+  // EvolutionSkillQuality Gold, which is Mythic. A Legendary adult, or one
+  // under Lv 100, is not a Fantomon anybody can have.
+  const PET_ADULT = { rank: 10, level: 100 };
+  function petQual(rank) {              // the quality a stored rank belongs to
+    let out = PET_QUALS[0];
+    PET_QUALS.forEach((q) => { if ((rank || 6) >= q[0]) out = q; });
+    return out;
+  }
+  const petQualName = (rank) => petQual(rank)[1];
+  const petCanAdult = (id) => !!(pets().find((x) => x.id === id) || {}).adult;
+  // Whether the game would let this one be an adult at all.
+  const petGrown = (p) => !!(p && p.id && petCanAdult(p.id)
+    && petQual(p.rank)[0] >= PET_ADULT.rank && (p.level || 0) >= PET_ADULT.level);
+
   function petLine(pet) {
     if (!pet || !pet.id) return "Fantomon: None";
-    return `Fantomon: ${petName(pet.id)}, ${pet.phase === "Adulthood" ? "Adult" : "Baby"}, ${label(pet.rank || 6)}, Lv ${pet.level}`;
+    return `Fantomon: ${petName(pet.id)}, ${pet.phase === "Adulthood" ? "Adult" : "Baby"}, ${petQualName(pet.rank)}, Lv ${pet.level}`;
   }
   function petEditor(pet, level) {
+    return `<div class="duel-pet">${petFields(pet, level)}<\/div>`;
+  }
+  function petFields(pet, level) {
     const p = pet || {};
+    const rank = petQual(p.rank)[0], lv = p.level || level;
+    const grown = petGrown({ id: p.id, rank, level: lv });
+    const adult = grown && p.phase === "Adulthood";
     const opts = ['<option value="">None<\/option>'].concat(pets().map((x) => `<option value="${x.id}"${x.id === p.id ? " selected" : ""}>${esc(x.name)}<\/option>`)).join("");
-    const adultOk = !!(pets().find((x) => x.id === p.id) || {}).adult;
-    let q = "";
-    for (let r = 3; r <= 34; r++) q += `<option value="${r}"${r === (p.rank || 6) ? " selected" : ""}>${esc(label(r))}<\/option>`;
-    return `<div class="duel-pet">
+    // While it is an adult, Legendary is not on the list: it could not have
+    // grown up at Legendary, and letting it be picked made a Fantomon the
+    // game cannot produce.
+    const q = PET_QUALS.filter((e) => !adult || e[0] >= PET_ADULT.rank)
+      .map((e) => `<option value="${e[0]}"${e[0] === rank ? " selected" : ""}>${esc(e[1])}<\/option>`).join("");
+    const why = !p.id || grown ? ""
+      : !petCanAdult(p.id) ? `${esc(petName(p.id))} has no adult form.`
+      : petQual(rank)[0] < PET_ADULT.rank
+        ? `Adult needs the skill at Mythic; this one is ${esc(petQualName(rank))}.`
+        : `Adult needs Lv ${PET_ADULT.level}.`;
+    return `
       <label class="field">Fantomon<select class="in" data-k="id">${opts}<\/select><\/label>
-      <label class="field">Form<select class="in" data-k="phase"${p.id ? "" : " disabled"}><option value="Childhood"${p.phase !== "Adulthood" ? " selected" : ""}>Baby<\/option>${adultOk ? `<option value="Adulthood"${p.phase === "Adulthood" ? " selected" : ""}>Adult<\/option>` : ""}<\/select><\/label>
+      <label class="field">Form<select class="in" data-k="phase"${p.id ? "" : " disabled"}><option value="Childhood"${!adult ? " selected" : ""}>Baby<\/option>${grown ? `<option value="Adulthood"${adult ? " selected" : ""}>Adult<\/option>` : ""}<\/select><\/label>
       <label class="field">Skill quality<select class="in" data-k="rank"${p.id ? "" : " disabled"}>${q}<\/select><\/label>
-      <label class="field">Level<input class="in" type="number" min="1" max="250" data-k="level" value="${p.level || level}"${p.id ? "" : " disabled"}><\/label>
-    <\/div>`;
+      <label class="field">Level<input class="in" type="number" min="1" max="250" data-k="level" value="${lv}"${p.id ? "" : " disabled"}><\/label>
+      ${why ? `<p class="hint duel-petwhy">${why}<\/p>` : ""}`;
   }
   function readPet(box, level) {
     const g = (k) => box.querySelector(`[data-k="${k}"]`);
     const id = +g("id").value;
     if (!id) return null;
-    const adult = !!(pets().find((x) => x.id === id) || {}).adult;
-    return { id, phase: adult && g("phase").value === "Adulthood" ? "Adulthood" : "Childhood", rank: +g("rank").value || 6, level: +g("level").value || level };
+    const p = { id, phase: g("phase").value === "Adulthood" ? "Adulthood" : "Childhood",
+                rank: petQual(+g("rank").value)[0], level: Math.max(1, Math.min(250, +g("level").value || level)) };
+    if (!petGrown(p)) p.phase = "Childhood";
+    return p;
   }
+  // The form, the quality and the level each rule the others out, so the box
+  // is redrawn after every change rather than left showing a choice that is
+  // no longer there.
+  function repaintPet(box, pet, level) { box.innerHTML = petFields(pet, level); }
 
   // ---------- a loadout: four Techniques, four Charms, a Fantomon ----------
   function loadoutHtml(cls, b, level) {
@@ -619,7 +659,11 @@ window.__sxsPurrBoot = window.__sxsPurrBooter(document.getElementById("purr-fram
       const lv = +e.target.value; if (lv > 0) edit((nb) => [...nb.techs, ...nb.charms].forEach((t) => { t.level = Math.min(250, lv); }));
     });
     box.querySelector('[data-bulk="reset"]').addEventListener("click", reset);
-    box.querySelector(".duel-pet").addEventListener("change", (e) => { const pet = readPet(e.currentTarget, level); edit((nb) => { nb.pet = pet; }); });
+    box.querySelector(".duel-pet").addEventListener("change", (e) => {
+      const pet = readPet(e.currentTarget, level);
+      repaintPet(e.currentTarget, pet, level);
+      edit((nb) => { nb.pet = pet; });
+    });
   }
   const copy = (x) => JSON.parse(JSON.stringify(x));
 
@@ -747,8 +791,10 @@ window.__sxsPurrBoot = window.__sxsPurrBooter(document.getElementById("purr-fram
       <p class="hint">Change stats and skills on the Build Lab tab. The Build Lab holds no Fantomon or gear effects, so set them here.<\/p>`;
     byId("dlAcct").addEventListener("change", (e) => { saved.account = e.target.value; save(); drawMe(); stale(); });
     body.querySelector(".duel-pet").addEventListener("change", (e) => {
-      saved.pets[a.id] = readPet(e.currentTarget, build.level); save();
+      const pet = readPet(e.currentTarget, build.level);
+      saved.pets[a.id] = pet; save();
       if (e.target.dataset.k === "id") drawMe();
+      else repaintPet(e.currentTarget, pet, build.level);
       stale();
     });
     bindGear(body, (fn) => { const x = copy(labGear(a, t.name)); fn(x); (saved.labGear || (saved.labGear = {}))[a.id] = x; save(); drawMe(); stale(); });
